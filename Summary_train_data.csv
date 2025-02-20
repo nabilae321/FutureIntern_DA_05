@@ -1,0 +1,1461 @@
+Id,Neighborhood,HouseStyle,YearBuilt,Exterior1st,ExterQual,Functional,MoSold,SaleType,SaleCondition,SalePrice
+23,CollgCr,1Story,2002,VinylSd,Gd,Typ,9,WD,Normal,230000
+33,CollgCr,1Story,2007,VinylSd,Gd,Typ,1,WD,Normal,179900
+37,CollgCr,1Story,1994,VinylSd,TA,Typ,6,WD,Normal,145000
+44,CollgCr,1Story,1975,VinylSd,TA,Typ,7,WD,Normal,130250
+68,CollgCr,1Story,2003,VinylSd,Gd,Typ,6,WD,Normal,226000
+90,CollgCr,1Story,1994,VinylSd,TA,Typ,8,WD,Normal,123600
+97,CollgCr,1Story,1999,VinylSd,Gd,Typ,8,WD,Normal,214000
+104,CollgCr,1Story,2009,VinylSd,TA,Typ,5,WD,Normal,198900
+142,CollgCr,1Story,2005,VinylSd,Gd,Typ,1,WD,Normal,260000
+144,CollgCr,1Story,1999,VinylSd,Gd,Typ,6,WD,Normal,204000
+193,CollgCr,1Story,1999,VinylSd,Gd,Typ,9,WD,Normal,192000
+204,CollgCr,1Story,2004,VinylSd,Gd,Typ,1,WD,Normal,149000
+214,CollgCr,1Story,1995,VinylSd,TA,Typ,7,WD,Normal,156000
+217,CollgCr,1Story,2004,VinylSd,Gd,Typ,4,WD,Normal,210000
+237,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,185500
+303,CollgCr,1Story,2001,VinylSd,Gd,Typ,1,WD,Normal,205000
+338,CollgCr,1Story,2002,VinylSd,Gd,Typ,12,WD,Normal,214000
+356,CollgCr,1Story,1995,VinylSd,Gd,Typ,8,WD,Normal,177500
+389,CollgCr,1Story,1999,VinylSd,Gd,Typ,7,WD,Normal,191000
+477,CollgCr,1Story,1997,VinylSd,TA,Typ,4,WD,Normal,208900
+479,CollgCr,1Story,2007,VinylSd,Gd,Typ,9,WD,Normal,297000
+540,CollgCr,1Story,2001,VinylSd,Gd,Typ,5,WD,Normal,272000
+594,CollgCr,1Story,2003,VinylSd,Gd,Typ,5,WD,Normal,140000
+605,CollgCr,1Story,2002,VinylSd,Gd,Typ,9,WD,Normal,221000
+607,CollgCr,1Story,1996,VinylSd,TA,Typ,11,WD,Normal,152000
+684,CollgCr,1Story,2002,VinylSd,Gd,Typ,7,WD,Normal,285000
+691,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,141000
+705,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,213000
+722,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,143000
+728,CollgCr,1Story,2007,VinylSd,Gd,Typ,2,WD,Normal,194500
+753,CollgCr,1Story,1997,VinylSd,TA,Typ,7,WD,Normal,217000
+769,CollgCr,1Story,2004,VinylSd,Gd,Typ,10,WD,Normal,216837
+783,CollgCr,1Story,2001,VinylSd,Gd,Typ,6,WD,Normal,187100
+816,CollgCr,1Story,1998,VinylSd,TA,Typ,5,WD,Normal,224900
+839,CollgCr,1Story,1995,VinylSd,TA,Typ,6,WD,Normal,144000
+851,CollgCr,1Story,2003,VinylSd,Gd,Typ,11,WD,Normal,131500
+880,CollgCr,1Story,1978,VinylSd,Gd,Typ,7,WD,Normal,136500
+929,CollgCr,1Story,2001,VinylSd,Gd,Typ,6,WD,Normal,236500
+934,CollgCr,1Story,2004,VinylSd,Gd,Typ,8,WD,Normal,190000
+959,CollgCr,1Story,2003,VinylSd,Gd,Typ,10,WD,Normal,185000
+964,CollgCr,1Story,2007,VinylSd,Gd,Typ,5,WD,Normal,239000
+1000,CollgCr,1Story,2006,VinylSd,Gd,Typ,2,WD,Normal,206000
+1017,CollgCr,1Story,1996,VinylSd,Gd,Typ,6,WD,Normal,203000
+1026,CollgCr,1Story,1972,VinylSd,TA,Typ,3,WD,Normal,112500
+1034,CollgCr,1Story,2002,VinylSd,Gd,Typ,2,WD,Normal,230000
+1048,CollgCr,1Story,1994,VinylSd,TA,Typ,2,WD,Normal,145000
+1075,CollgCr,1Story,2006,VinylSd,Gd,Typ,5,WD,Normal,194000
+1079,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,155900
+1080,CollgCr,1Story,1994,VinylSd,TA,Typ,4,WD,Normal,126000
+1083,CollgCr,1Story,2002,VinylSd,Gd,Typ,9,WD,Normal,192000
+1096,CollgCr,1Story,2006,VinylSd,Gd,Typ,3,WD,Normal,176432
+1167,CollgCr,1Story,2008,VinylSd,Gd,Typ,2,WD,Normal,245350
+1199,CollgCr,1Story,2001,VinylSd,Gd,Typ,6,WD,Normal,178000
+1204,CollgCr,1Story,2000,VinylSd,Gd,Typ,10,WD,Normal,213000
+1208,CollgCr,1Story,2003,VinylSd,Gd,Typ,5,WD,Normal,200000
+1281,CollgCr,1Story,2002,VinylSd,Gd,Typ,3,WD,Normal,227000
+1308,CollgCr,1Story,1994,VinylSd,TA,Typ,5,WD,Normal,138000
+1317,CollgCr,1Story,2008,VinylSd,Gd,Typ,1,WD,Normal,295493
+1319,CollgCr,1Story,2001,VinylSd,Gd,Typ,8,WD,Normal,275000
+1369,CollgCr,1Story,2003,VinylSd,Gd,Typ,6,WD,Normal,144000
+1370,CollgCr,1Story,2003,VinylSd,Gd,Typ,5,WD,Normal,232000
+1391,CollgCr,1Story,2000,VinylSd,Gd,Typ,9,WD,Normal,235000
+1423,CollgCr,1Story,2003,VinylSd,Gd,Typ,3,WD,Normal,136500
+1442,CollgCr,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,149300
+1445,CollgCr,1Story,2004,VinylSd,Gd,Typ,11,WD,Normal,179600
+7,Somerst,1Story,2004,VinylSd,Gd,Typ,8,WD,Normal,307000
+19,SawyerW,1Story,2004,VinylSd,TA,Typ,6,WD,Normal,159000
+26,NridgHt,1Story,2007,VinylSd,Gd,Typ,7,WD,Normal,256300
+28,NridgHt,1Story,2007,VinylSd,Gd,Typ,5,WD,Normal,306000
+42,Timber,1Story,1959,VinylSd,TA,Typ,7,WD,Normal,170000
+48,Somerst,1Story,2006,VinylSd,Gd,Typ,7,WD,Normal,249700
+63,NridgHt,1Story,2006,VinylSd,Gd,Typ,10,WD,Normal,202500
+77,NAmes,1Story,1956,VinylSd,TA,Typ,4,WD,Normal,135750
+82,Mitchel,1Story,1998,VinylSd,TA,Typ,3,WD,Normal,153500
+83,Somerst,1Story,2007,VinylSd,TA,Typ,10,WD,Normal,245000
+107,OldTown,1Story,1885,VinylSd,TA,Typ,8,WD,Normal,100000
+134,Timber,1Story,2001,VinylSd,Gd,Typ,6,WD,Normal,220000
+149,SawyerW,1Story,2004,VinylSd,TA,Typ,4,WD,Normal,141000
+200,NridgHt,1Story,2004,VinylSd,Gd,Typ,1,WD,Normal,274900
+201,Edwards,1Story,2003,VinylSd,TA,Typ,3,WD,Normal,140000
+212,Edwards,1Story,2009,VinylSd,TA,Typ,3,WD,Normal,186000
+225,NridgHt,1Story,2003,VinylSd,Ex,Typ,6,WD,Normal,386250
+230,Blmngtn,1Story,2005,VinylSd,Gd,Typ,5,WD,Normal,192500
+241,Somerst,1Story,2008,VinylSd,Gd,Typ,4,WD,Normal,262500
+242,OldTown,1Story,1945,VinylSd,TA,Typ,8,WD,Normal,110500
+269,IDOTRR,1Story,1940,VinylSd,TA,Typ,2,WD,Normal,120500
+277,Mitchel,1Story,2003,VinylSd,Gd,Typ,4,WD,Normal,201000
+278,Gilbert,1Story,1951,VinylSd,TA,Typ,6,WD,Normal,141000
+309,Edwards,1Story,1940,VinylSd,TA,Typ,3,WD,Normal,82500
+310,NridgHt,1Story,2003,VinylSd,Gd,Typ,11,WD,Normal,360000
+312,NAmes,1Story,1948,VinylSd,TA,Typ,5,WD,Normal,132000
+324,OldTown,1Story,1955,VinylSd,TA,Typ,7,WD,Normal,126175
+333,NridgHt,1Story,2003,VinylSd,Gd,Typ,10,WD,Normal,284000
+334,NridgHt,1Story,2004,VinylSd,Gd,Typ,7,WD,Normal,207000
+337,StoneBr,1Story,2005,VinylSd,Gd,Typ,7,WD,Normal,377426
+354,OldTown,1Story,1928,VinylSd,TA,Typ,5,WD,Normal,105900
+386,Blmngtn,1Story,2004,VinylSd,Gd,Typ,4,WD,Normal,192000
+420,NAmes,1Story,1968,VinylSd,TA,Typ,7,WD,Normal,142000
+441,NridgHt,1Story,2008,VinylSd,Ex,Typ,4,WD,Normal,555000
+442,Edwards,1Story,1955,VinylSd,TA,Typ,9,WD,Normal,118000
+466,Blmngtn,1Story,2004,VinylSd,Gd,Typ,5,WD,Normal,178740
+469,NridgHt,1Story,2006,VinylSd,Gd,Typ,5,WD,Normal,250000
+481,NridgHt,1Story,2004,VinylSd,Gd,Typ,3,WD,Normal,326000
+482,NridgHt,1Story,2003,VinylSd,Gd,Typ,8,WD,Normal,374000
+484,Mitchel,1Story,1998,VinylSd,TA,Typ,5,WD,Normal,164000
+513,NAmes,1Story,1958,VinylSd,TA,Typ,7,WD,Normal,129900
+514,Mitchel,1Story,1983,VinylSd,TA,Typ,6,WD,Normal,134000
+522,NAmes,1Story,1957,VinylSd,TA,Typ,5,WD,Normal,150000
+526,Somerst,1Story,2005,VinylSd,Gd,Typ,4,WD,Normal,176000
+534,BrkSide,1Story,1946,VinylSd,Fa,Typ,1,WD,Normal,39300
+541,Timber,1Story,2006,VinylSd,Ex,Typ,3,WD,Normal,315000
+553,NridgHt,1Story,2006,VinylSd,Gd,Typ,7,WD,Normal,255500
+554,Edwards,1Story,1949,VinylSd,TA,Typ,5,WD,Normal,108000
+560,Blmngtn,1Story,2003,VinylSd,Gd,Typ,10,WD,Normal,234000
+568,NridgHt,1Story,2004,VinylSd,Gd,Typ,3,WD,Normal,214000
+590,BrkSide,1Story,1930,VinylSd,TA,Typ,8,WD,Normal,79500
+610,Sawyer,1Story,1961,VinylSd,TA,Typ,4,WD,Normal,118500
+632,NridgHt,1Story,2006,VinylSd,Gd,Typ,8,WD,Normal,209500
+678,OldTown,1Story,1924,VinylSd,Gd,Typ,5,WD,Normal,109500
+690,NridgHt,1Story,2005,VinylSd,Gd,Typ,6,WD,Normal,194700
+701,Timber,1Story,2002,VinylSd,Gd,Typ,5,WD,Normal,312500
+743,SawyerW,1Story,2000,VinylSd,TA,Typ,12,WD,Normal,179000
+749,NoRidge,1Story,1996,VinylSd,Gd,Typ,3,WD,Normal,260400
+776,Mitchel,1Story,1998,VinylSd,TA,Typ,6,WD,Normal,162000
+791,Blmngtn,1Story,2005,VinylSd,Gd,Typ,9,WD,Normal,160200
+828,SawyerW,1Story,2001,VinylSd,Gd,Typ,4,WD,Normal,189000
+835,NAmes,1Story,1961,VinylSd,TA,Typ,9,WD,Normal,139950
+852,Blmngtn,1Story,2003,VinylSd,Gd,Typ,5,WD,Normal,215000
+868,Sawyer,1Story,1961,VinylSd,TA,Typ,5,WD,Normal,129000
+881,Edwards,1Story,2005,VinylSd,TA,Typ,6,WD,Normal,157000
+907,Somerst,1Story,2006,VinylSd,Gd,Typ,6,WD,Normal,255000
+918,Edwards,1Story,1956,VinylSd,TA,Typ,4,WD,Normal,135000
+931,Timber,1Story,2007,VinylSd,Gd,Typ,7,WD,Normal,201000
+932,NAmes,1Story,1965,VinylSd,TA,Typ,7,WD,Normal,117500
+933,Somerst,1Story,2006,VinylSd,Ex,Typ,3,WD,Normal,320000
+937,SawyerW,1Story,2003,VinylSd,Gd,Typ,8,WD,Normal,184900
+948,Timber,1Story,2002,VinylSd,Gd,Typ,11,WD,Normal,270000
+951,NAmes,1Story,1950,VinylSd,TA,Typ,7,WD,Normal,129000
+980,Sawyer,1Story,1963,VinylSd,TA,Typ,6,WD,Normal,139000
+983,Blmngtn,1Story,2007,VinylSd,Gd,Typ,3,WD,Normal,159895
+1003,Somerst,1Story,2006,VinylSd,Gd,Typ,7,WD,Normal,232000
+1004,NWAmes,1Story,1976,VinylSd,TA,Typ,6,WD,Normal,136905
+1005,Blmngtn,1Story,2005,VinylSd,Gd,Typ,5,WD,Normal,181000
+1009,Mitchel,1Story,2004,VinylSd,Gd,Typ,4,WD,Normal,240000
+1020,Blmngtn,1Story,2005,VinylSd,Gd,Typ,4,WD,Normal,213490
+1021,Edwards,1Story,2005,VinylSd,TA,Typ,6,WD,Normal,176000
+1024,Blmngtn,1Story,2005,VinylSd,Gd,Typ,5,WD,Normal,191000
+1037,Timber,1Story,2007,VinylSd,Gd,Typ,9,WD,Normal,315500
+1043,NridgHt,1Story,2005,VinylSd,Gd,Typ,8,WD,Normal,196000
+1057,NridgHt,1Story,2005,VinylSd,Gd,Typ,6,WD,Normal,185850
+1118,Sawyer,1Story,1967,VinylSd,TA,Typ,5,WD,Normal,130000
+1124,Edwards,1Story,1947,VinylSd,TA,Typ,6,WD,Normal,118000
+1127,Blmngtn,1Story,2007,VinylSd,Gd,Typ,6,WD,Normal,174000
+1158,NridgHt,1Story,2007,VinylSd,Gd,Typ,7,WD,Normal,230000
+1163,Sawyer,1Story,1968,VinylSd,TA,Typ,5,WD,Normal,129000
+1194,Mitchel,1Story,1999,VinylSd,TA,Typ,6,WD,Normal,165000
+1216,Sawyer,1Story,1966,VinylSd,TA,Typ,5,WD,Normal,125000
+1228,NAmes,1Story,1965,VinylSd,TA,Typ,12,WD,Normal,147000
+1240,Timber,1Story,2006,VinylSd,Gd,Typ,12,WD,Normal,265900
+1252,NridgHt,1Story,2003,VinylSd,Gd,Typ,3,WD,Normal,171750
+1304,Somerst,1Story,2005,VinylSd,Gd,Typ,4,WD,Normal,232000
+1306,NridgHt,1Story,2006,VinylSd,Gd,Typ,11,WD,Normal,325000
+1322,BrkSide,1Story,1949,VinylSd,TA,Typ,7,WD,Normal,72500
+1324,BrkSide,1Story,1940,VinylSd,Fa,Typ,12,WD,Normal,82500
+1328,Mitchel,1Story,1982,VinylSd,Gd,Typ,10,WD,Normal,130500
+1331,Somerst,1Story,2006,VinylSd,Gd,Typ,12,WD,Normal,227000
+1342,SawyerW,1Story,2003,VinylSd,TA,Typ,7,WD,Normal,155000
+1349,SawyerW,1Story,1998,VinylSd,Gd,Typ,8,WD,Normal,215000
+1358,NAmes,1Story,1971,VinylSd,TA,Typ,4,WD,Normal,149900
+1360,NridgHt,1Story,2004,VinylSd,Gd,Typ,9,WD,Normal,315000
+1362,StoneBr,1Story,2005,VinylSd,Gd,Typ,6,WD,Normal,260000
+1374,NoRidge,1Story,2001,VinylSd,Ex,Typ,3,WD,Normal,466500
+1389,Gilbert,1Story,2006,VinylSd,Ex,Typ,10,WD,Normal,377500
+1404,Somerst,1Story,2007,VinylSd,Gd,Typ,8,WD,Normal,282922
+1416,Blmngtn,1Story,2007,VinylSd,Gd,Typ,5,WD,Normal,175900
+1455,Somerst,1Story,2004,VinylSd,Gd,Typ,10,WD,Normal,185000
+35,NridgHt,1Story,2005,MetalSd,Ex,Typ,8,WD,Normal,277500
+46,NridgHt,1Story,2005,MetalSd,Ex,Typ,2,WD,Normal,319900
+53,IDOTRR,1Story,1963,Wd Sdng,Fa,Typ,5,WD,Normal,110000
+54,Veenker,1Story,1981,WdShing,Gd,Typ,11,WD,Normal,385000
+124,SawyerW,1Story,1993,Plywood,Gd,Typ,3,WD,Normal,153900
+170,Timber,1Story,1981,Plywood,Gd,Typ,1,WD,Normal,228000
+180,OldTown,1Story,1923,Wd Sdng,Gd,Typ,7,WD,Normal,100000
+190,StoneBr,1Story,2001,CemntBd,Gd,Typ,8,WD,Normal,286000
+285,SawyerW,1Story,1992,Plywood,Gd,Typ,7,WD,Normal,179200
+306,CollgCr,1Story,2004,CemntBd,Gd,Typ,7,WD,Normal,305900
+339,NWAmes,1Story,1984,Wd Sdng,Gd,Typ,5,WD,Normal,202500
+342,SawyerW,1Story,1950,Wd Sdng,Fa,Typ,9,WD,Normal,82000
+344,NridgHt,1Story,2005,MetalSd,Ex,Typ,7,WD,Normal,266000
+401,Veenker,1Story,1996,BrkFace,Gd,Typ,12,WD,Normal,245500
+422,NWAmes,1Story,1977,CemntBd,Gd,Typ,6,WD,Normal,215000
+471,StoneBr,1Story,1985,HdBoard,Gd,Typ,6,WD,Normal,212000
+475,StoneBr,1Story,2000,CemntBd,Gd,Typ,8,WD,Normal,251000
+486,NAmes,1Story,1950,MetalSd,Gd,Typ,7,WD,Normal,147000
+497,NoRidge,1Story,1992,BrkFace,Gd,Typ,5,WD,Normal,430000
+641,NridgHt,1Story,2003,MetalSd,Ex,Typ,4,WD,Normal,274000
+655,NoRidge,1Story,1995,MetalSd,Gd,Typ,8,WD,Normal,350000
+657,NAmes,1Story,1959,HdBoard,Gd,Typ,8,WD,Normal,145500
+673,Veenker,1Story,1977,Plywood,Gd,Typ,6,WD,Normal,165000
+700,Somerst,1Story,2004,MetalSd,Gd,Typ,7,WD,Normal,196000
+708,NridgHt,1Story,2006,MetalSd,Gd,Typ,12,WD,Normal,254000
+713,StoneBr,1Story,1988,HdBoard,Gd,Typ,10,WD,Normal,189000
+721,StoneBr,1Story,1985,HdBoard,Gd,Typ,12,WD,Normal,275000
+725,Edwards,1Story,2007,CemntBd,Ex,Typ,2,WD,Normal,320000
+727,Crawfor,1Story,1988,Wd Sdng,Gd,Typ,12,WD,Normal,222000
+731,StoneBr,1Story,1995,CemntBd,Gd,Typ,3,WD,Normal,236500
+745,StoneBr,1Story,1993,HdBoard,Gd,Typ,10,WD,Normal,180000
+765,Veenker,1Story,1995,BrkFace,Gd,Typ,4,WD,Normal,270000
+818,Mitchel,1Story,2002,CemntBd,Gd,Typ,7,WD,Normal,271000
+873,NAmes,1Story,1953,WdShing,Gd,Typ,10,WD,Normal,116000
+874,NAmes,1Story,1949,HdBoard,Gd,Typ,9,WD,Normal,133000
+889,NAmes,1Story,1970,Wd Sdng,Gd,Typ,10,WD,Normal,268000
+924,SawyerW,1Story,1993,Plywood,Gd,Typ,7,WD,Normal,193000
+995,NridgHt,1Story,2006,CemntBd,Ex,Typ,7,WD,Normal,337500
+1045,NWAmes,1Story,1981,BrkFace,Gd,Typ,7,WD,Normal,278000
+1061,StoneBr,1Story,2001,CemntBd,Gd,Typ,4,WD,Normal,213500
+1090,Somerst,1Story,2005,MetalSd,Gd,Typ,4,WD,Normal,197000
+1098,StoneBr,1Story,1986,HdBoard,Gd,Typ,10,WD,Normal,170000
+1107,SawyerW,1Story,1990,HdBoard,Gd,Typ,5,WD,Normal,179900
+1110,NridgHt,1Story,2004,MetalSd,Gd,Typ,3,WD,Normal,280000
+1147,SawyerW,1Story,1985,Wd Sdng,Gd,Typ,5,WD,Normal,180000
+1154,IDOTRR,1Story,1930,Wd Sdng,Gd,Typ,6,WD,Normal,120500
+1156,Veenker,1Story,1976,Plywood,Gd,Typ,7,WD,Normal,218000
+1162,Crawfor,1Story,1954,HdBoard,Gd,Typ,11,WD,Normal,224000
+1188,NoRidge,1Story,1994,ImStucc,Gd,Typ,7,WD,Normal,262000
+1206,SawyerW,1Story,1990,HdBoard,Gd,Typ,6,WD,Normal,271900
+1251,NAmes,1Story,1968,BrkFace,Gd,Typ,4,WD,Normal,244000
+1257,NoRidge,1Story,1994,HdBoard,Gd,Typ,8,WD,Normal,301500
+1268,Timber,1Story,2008,Stucco,Ex,Typ,5,WD,Normal,378500
+1271,ClearCr,1Story,1979,Plywood,Gd,Typ,4,WD,Normal,260000
+1289,StoneBr,1Story,2000,CemntBd,Gd,Typ,10,WD,Normal,278000
+1311,Crawfor,1Story,1959,BrkFace,Gd,Typ,5,WD,Normal,335000
+1406,Crawfor,1Story,2004,CemntBd,Gd,Typ,1,WD,Normal,275000
+1420,Crawfor,1Story,1969,Plywood,Gd,Typ,12,WD,Normal,223000
+1426,NAmes,1Story,1959,HdBoard,Gd,Typ,10,WD,Normal,142000
+1430,NWAmes,1Story,1981,MetalSd,Gd,Typ,4,WD,Normal,182900
+1460,Edwards,1Story,1965,HdBoard,Gd,Typ,6,WD,Normal,147500
+2,Veenker,1Story,1976,MetalSd,TA,Typ,5,WD,Normal,181500
+18,Sawyer,1Story,1967,MetalSd,TA,Typ,10,WD,Normal,90000
+24,MeadowV,1Story,1976,CemntBd,TA,Typ,6,WD,Normal,129900
+25,Sawyer,1Story,1968,Plywood,TA,Typ,5,WD,Normal,154000
+30,BrkSide,1Story,1927,MetalSd,TA,Typ,5,WD,Normal,68500
+69,OldTown,1Story,1945,MetalSd,TA,Typ,6,WD,Normal,80000
+93,Crawfor,1Story,1921,Wd Sdng,TA,Typ,8,WD,Normal,163500
+101,NWAmes,1Story,1977,Plywood,TA,Typ,2,WD,Normal,205000
+117,Sawyer,1Story,1962,Wd Sdng,TA,Typ,9,WD,Normal,139000
+127,NPkVill,1Story,1976,Plywood,TA,Typ,2,WD,Normal,128000
+136,NWAmes,1Story,1970,Plywood,TA,Typ,5,WD,Normal,174000
+147,BrkSide,1Story,1931,Wd Sdng,TA,Typ,11,WD,Normal,105000
+154,ClearCr,1Story,1960,BrkFace,TA,Typ,3,WD,Normal,235000
+161,Veenker,1Story,1984,Plywood,TA,Typ,6,WD,Normal,162500
+165,OldTown,1Story,1926,MetalSd,TA,Typ,10,WD,Normal,152000
+176,Edwards,1Story,1950,WdShing,TA,Typ,6,WD,Normal,243000
+183,Edwards,1Story,1957,Wd Sdng,TA,Typ,6,WD,Normal,120000
+202,Mitchel,1Story,1977,Plywood,TA,Typ,2,WD,Normal,171500
+211,Edwards,1Story,1925,Stucco,TA,Typ,4,WD,Normal,98000
+246,NWAmes,1Story,1988,Wd Sdng,TA,Typ,6,WD,Normal,241500
+260,OldTown,1Story,1956,BrkFace,TA,Typ,12,WD,Normal,97000
+265,OldTown,1Story,1925,Wd Sdng,TA,Typ,6,WD,Normal,73000
+266,NWAmes,1Story,1981,MetalSd,TA,Typ,6,WD,Normal,175500
+289,Sawyer,1Story,1967,MetalSd,TA,Typ,2,WD,Normal,122000
+301,Crawfor,1Story,1953,MetalSd,TA,Typ,6,WD,Normal,157000
+314,Timber,1Story,1965,BrkFace,TA,Typ,6,WD,Normal,375000
+358,MeadowV,1Story,1976,CemntBd,TA,Typ,8,WD,Normal,134000
+373,SawyerW,1Story,1984,Plywood,TA,Typ,2,WD,Normal,125000
+396,Edwards,1Story,1956,Wd Sdng,TA,Typ,6,WD,Normal,129000
+397,CollgCr,1Story,1972,MetalSd,TA,Typ,9,WD,Normal,123000
+403,Sawyer,1Story,1940,Wd Sdng,TA,Typ,8,WD,Normal,108000
+412,Gilbert,1Story,1955,Wd Sdng,TA,Typ,1,WD,Normal,145000
+414,OldTown,1Story,1927,WdShing,TA,Typ,3,WD,Normal,115000
+439,Crawfor,1Story,1913,WdShing,TA,Typ,3,WD,Normal,90350
+451,OldTown,1Story,1930,Wd Sdng,TA,Typ,6,WD,Normal,110000
+452,ClearCr,1Story,1975,Plywood,TA,Typ,12,WD,Normal,280000
+463,Sawyer,1Story,1965,MetalSd,TA,Typ,12,WD,Normal,62383
+488,NWAmes,1Story,1971,Plywood,TA,Typ,2,WD,Normal,175000
+495,OldTown,1Story,1938,MetalSd,TA,Typ,12,WD,Normal,91300
+503,Edwards,1Story,1965,MetalSd,TA,Typ,4,WD,Normal,140000
+504,Crawfor,1Story,1959,BrkFace,TA,Typ,3,WD,Normal,289000
+529,Edwards,1Story,1920,Wd Sdng,TA,Typ,7,WD,Normal,86000
+539,Sawyer,1Story,1968,Plywood,TA,Typ,7,WD,Normal,158000
+549,OldTown,1Story,1955,MetalSd,TA,Typ,6,WD,Normal,125000
+552,OldTown,1Story,1957,BrkFace,TA,Typ,6,WD,Normal,112500
+563,Edwards,1Story,1940,WdShing,TA,Typ,7,WD,Normal,108000
+587,BrkSide,1Story,1918,Stucco,TA,Typ,5,WD,Normal,130000
+599,Crawfor,1Story,1977,Plywood,TA,Typ,3,WD,Normal,217500
+621,Edwards,1Story,1914,Stucco,TA,Typ,9,WD,Normal,67000
+623,Sawyer,1Story,1977,Plywood,TA,Typ,7,WD,Normal,135000
+639,Edwards,1Story,1910,MetalSd,TA,Typ,5,WD,Normal,85000
+648,Edwards,1Story,1953,Wd Sdng,TA,Typ,6,WD,Normal,155000
+660,Edwards,1Story,1964,MetalSd,TA,Typ,3,WD,Normal,167000
+670,Crawfor,1Story,1922,MetalSd,TA,Typ,7,WD,Normal,137500
+674,Crawfor,1Story,1957,CemntBd,TA,Typ,6,WD,Normal,257500
+680,Sawyer,1Story,1961,Wd Sdng,TA,Typ,10,WD,Normal,128500
+681,SawyerW,1Story,1980,Plywood,TA,Typ,5,WD,Normal,143000
+683,ClearCr,1Story,1996,Wd Sdng,TA,Typ,11,WD,Normal,173000
+697,BrkSide,1Story,1921,Wd Sdng,TA,Typ,6,WD,Normal,89000
+698,Edwards,1Story,1952,Wd Sdng,TA,Typ,9,WD,Normal,123500
+699,Sawyer,1Story,1965,MetalSd,TA,Typ,4,WD,Normal,138500
+707,ClearCr,1Story,1971,Plywood,TA,Typ,6,WD,Normal,302000
+779,SawyerW,1Story,1977,Plywood,TA,Typ,10,WD,Normal,144000
+786,NWAmes,1Story,1967,BrkFace,TA,Typ,9,WD,Normal,161500
+789,OldTown,1Story,1954,MetalSd,TA,Typ,8,WD,Normal,107900
+797,Sawyer,1Story,1977,Plywood,TA,Typ,4,WD,Normal,143500
+802,IDOTRR,1Story,1916,MetalSd,TA,Typ,7,WD,Normal,109900
+862,Sawyer,1Story,1965,Plywood,TA,Typ,4,WD,Normal,131500
+894,Sawyer,1Story,1954,Wd Sdng,TA,Typ,6,WD,Normal,165000
+925,NWAmes,1Story,1980,Plywood,TA,Typ,5,WD,Normal,207500
+936,BrkSide,1Story,1926,MetalSd,TA,Typ,6,WD,Normal,79900
+941,Mitchel,1Story,1976,Plywood,TA,Typ,7,WD,Normal,150900
+950,NWAmes,1Story,1972,Plywood,TA,Typ,3,WD,Normal,197500
+958,Sawyer,1Story,1962,MetalSd,TA,Typ,4,WD,Normal,132000
+961,BrkSide,1Story,1958,Wd Sdng,TA,Typ,2,WD,Normal,116500
+973,SawyerW,1Story,1979,Plywood,TA,Typ,4,WD,Normal,99500
+977,BrkSide,1Story,1923,Wd Sdng,TA,Typ,8,WD,Normal,85500
+999,IDOTRR,1Story,1922,Wd Sdng,TA,Typ,5,WD,Normal,91000
+1012,Edwards,1Story,1965,AsphShn,TA,Typ,5,WD,Normal,100000
+1035,Crawfor,1Story,1938,MetalSd,TA,Typ,6,WD,Normal,119750
+1036,Edwards,1Story,1957,Wd Sdng,TA,Typ,1,WD,Normal,84000
+1064,OldTown,1Story,1925,MetalSd,TA,Typ,7,WD,Normal,110500
+1101,SWISU,1Story,1920,Wd Sdng,TA,Typ,1,WD,Normal,60000
+1115,OldTown,1Story,1954,MetalSd,TA,Typ,8,WD,Normal,117000
+1121,IDOTRR,1Story,1920,BrkFace,TA,Typ,5,WD,Normal,118400
+1136,BrkSide,1Story,1926,Wd Sdng,TA,Typ,5,WD,Normal,102000
+1139,Mitchel,1Story,1977,Plywood,TA,Typ,5,WD,Normal,196000
+1144,Sawyer,1Story,1959,Wd Sdng,TA,Typ,7,WD,Normal,80000
+1184,OldTown,1Story,1920,Stucco,TA,Typ,6,WD,Normal,120000
+1185,Timber,1Story,1963,MetalSd,TA,Typ,5,WD,Normal,186700
+1191,Mitchel,1Story,1961,MetalSd,TA,Typ,3,WD,Normal,168000
+1213,Edwards,1Story,1941,MetalSd,TA,Typ,8,WD,Normal,113000
+1258,Edwards,1Story,1922,Wd Sdng,TA,Typ,7,WD,Normal,99900
+1272,NWAmes,1Story,1968,BrkFace,TA,Typ,8,WD,Normal,185750
+1288,ClearCr,1Story,1964,Wd Sdng,TA,Typ,6,WD,Normal,190000
+1295,Edwards,1Story,1955,WdShing,TA,Typ,4,WD,Normal,115000
+1309,OldTown,1Story,1948,MetalSd,TA,Typ,5,WD,Normal,147000
+1315,Edwards,1Story,1954,Wd Sdng,TA,Typ,10,WD,Normal,119000
+1320,Edwards,1Story,1954,Wd Sdng,TA,Typ,2,WD,Normal,111000
+1326,IDOTRR,1Story,1922,AsbShng,TA,Typ,1,WD,Normal,55000
+1327,Edwards,1Story,1931,MetalSd,TA,Typ,5,WD,Normal,79000
+1333,Edwards,1Story,1938,MetalSd,TA,Typ,5,WD,Normal,100000
+1336,NWAmes,1Story,1977,Plywood,TA,Typ,4,WD,Normal,167900
+1337,NWAmes,1Story,1973,Plywood,TA,Typ,11,WD,Normal,135000
+1338,OldTown,1Story,1941,Wd Sdng,TA,Typ,3,WD,Normal,52500
+1340,CollgCr,1Story,1972,MetalSd,TA,Typ,6,WD,Normal,128500
+1346,OldTown,1Story,1920,MetalSd,TA,Typ,7,WD,Normal,108500
+1347,NWAmes,1Story,1968,BrkFace,TA,Typ,6,WD,Normal,262500
+1377,SWISU,1Story,1930,Wd Sdng,TA,Typ,4,WD,Normal,91000
+1381,Edwards,1Story,1914,Stucco,TA,Typ,6,WD,Normal,58500
+1384,Sawyer,1Story,1918,Wd Sdng,TA,Typ,8,WD,Normal,112000
+1422,NPkVill,1Story,1977,Plywood,TA,Typ,7,WD,Normal,127500
+1432,NPkVill,1Story,1976,Plywood,TA,Typ,10,WD,Normal,143750
+1433,OldTown,1Story,1927,Wd Sdng,TA,Typ,8,WD,Normal,64500
+1435,Mitchel,1Story,1977,BrkFace,TA,Typ,5,WD,Normal,160000
+1439,OldTown,1Story,1957,MetalSd,TA,Typ,4,WD,Normal,149700
+11,Sawyer,1Story,1965,HdBoard,TA,Typ,2,WD,Normal,129500
+13,Sawyer,1Story,1962,HdBoard,TA,Typ,9,WD,Normal,144000
+32,Sawyer,1Story,1966,HdBoard,TA,Typ,6,WD,Normal,149350
+50,Sawyer,1Story,1966,HdBoard,TA,Typ,1,WD,Normal,127000
+60,CollgCr,1Story,1972,HdBoard,TA,Typ,1,WD,Normal,124900
+72,Mitchel,1Story,1982,HdBoard,TA,Typ,6,WD,Normal,129500
+79,Sawyer,1Story,1968,HdBoard,TA,Typ,4,WD,Normal,136500
+98,Edwards,1Story,1965,HdBoard,TA,Typ,5,WD,Normal,94750
+125,NWAmes,1Story,1979,HdBoard,TA,Typ,1,WD,Normal,181000
+151,CollgCr,1Story,1975,HdBoard,TA,Typ,1,WD,Normal,122000
+195,CollgCr,1Story,1972,HdBoard,TA,Typ,5,WD,Normal,127000
+206,Gilbert,1Story,1990,HdBoard,TA,Typ,5,WD,Normal,180500
+229,Sawyer,1Story,1967,HdBoard,TA,Typ,5,WD,Normal,125000
+234,CollgCr,1Story,1976,HdBoard,TA,Typ,2,WD,Normal,128200
+270,Edwards,1Story,1976,HdBoard,TA,Typ,5,WD,Normal,148000
+275,Mitchel,1Story,1982,HdBoard,TA,Typ,6,WD,Normal,124500
+357,Gilbert,1Story,1992,HdBoard,TA,Typ,7,WD,Normal,173000
+423,Mitchel,1Story,1954,HdBoard,TA,Typ,2,WD,Normal,113000
+430,Timber,1Story,1988,HdBoard,TA,Typ,3,WD,Normal,175000
+456,NWAmes,1Story,1973,HdBoard,TA,Typ,9,WD,Normal,175500
+465,CollgCr,1Story,1978,HdBoard,TA,Typ,8,WD,Normal,124000
+476,Sawyer,1Story,1963,HdBoard,TA,Typ,7,WD,Normal,132500
+485,Sawyer,1Story,1962,HdBoard,TA,Typ,3,WD,Normal,132500
+499,Sawyer,1Story,1967,HdBoard,TA,Typ,6,WD,Normal,130000
+562,Mitchel,1Story,1974,HdBoard,TA,Typ,4,WD,Normal,170000
+593,Mitchel,1Story,1982,HdBoard,TA,Typ,6,WD,Normal,138000
+595,CollgCr,1Story,1975,HdBoard,TA,Typ,4,WD,Normal,110000
+668,SawyerW,1Story,1994,HdBoard,TA,Typ,10,WD,Normal,193500
+696,Timber,1Story,1987,HdBoard,TA,Typ,7,WD,Normal,176000
+714,BrkSide,1Story,1970,HdBoard,TA,Typ,5,WD,Normal,129000
+716,NWAmes,1Story,1974,HdBoard,TA,Typ,8,WD,Normal,165000
+718,NWAmes,1Story,1973,HdBoard,TA,Typ,11,WD,Normal,157000
+720,CollgCr,1Story,1969,HdBoard,TA,Typ,5,WD,Normal,128500
+734,Sawyer,1Story,1961,HdBoard,TA,Typ,3,WD,Normal,131400
+742,Sawyer,1Story,1961,HdBoard,TA,Typ,5,WD,Normal,142000
+778,Sawyer,1Story,1974,HdBoard,TA,Typ,6,WD,Normal,142500
+781,Gilbert,1Story,1995,HdBoard,TA,Typ,6,WD,Normal,176000
+811,NWAmes,1Story,1974,HdBoard,TA,Typ,1,WD,Normal,181000
+848,CollgCr,1Story,1972,HdBoard,TA,Typ,8,WD,Normal,133500
+856,Sawyer,1Story,1962,HdBoard,TA,Typ,4,WD,Normal,127000
+863,SawyerW,1Story,1984,HdBoard,TA,Typ,5,WD,Normal,152000
+877,Mitchel,1Story,1963,HdBoard,TA,Typ,1,WD,Normal,132250
+893,Sawyer,1Story,1963,HdBoard,TA,Typ,2,WD,Normal,154500
+900,Sawyer,1Story,1961,HdBoard,TA,Typ,6,WD,Normal,135000
+905,Sawyer,1Story,1967,HdBoard,TA,Typ,8,WD,Normal,125500
+909,Mitchel,1Story,1983,HdBoard,TA,Typ,6,WD,Normal,131000
+912,CollgCr,1Story,1977,HdBoard,TA,Typ,10,WD,Normal,143500
+944,Mitchel,1Story,1967,HdBoard,TA,Typ,6,WD,Normal,143000
+998,NWAmes,1Story,1970,HdBoard,TA,Typ,2,WD,Normal,185000
+1082,Sawyer,1Story,1963,HdBoard,TA,Typ,6,WD,Normal,133000
+1152,Edwards,1Story,1959,HdBoard,TA,Typ,11,WD,Normal,149900
+1177,Mitchel,1Story,1984,HdBoard,TA,Typ,10,WD,Normal,119500
+1200,Sawyer,1Story,1963,HdBoard,TA,Typ,10,WD,Normal,148000
+1205,NWAmes,1Story,1975,HdBoard,TA,Typ,7,WD,Normal,153500
+1207,SawyerW,1Story,1966,HdBoard,TA,Typ,11,WD,Normal,107000
+1222,Sawyer,1Story,1968,HdBoard,TA,Typ,8,WD,Normal,134000
+1253,Mitchel,1Story,1968,HdBoard,TA,Typ,11,WD,Normal,130000
+1273,Sawyer,1Story,1965,HdBoard,TA,Typ,11,WD,Normal,137000
+1282,Timber,1Story,1990,HdBoard,TA,Typ,7,WD,Normal,180000
+1283,CollgCr,1Story,1977,HdBoard,TA,Typ,9,WD,Normal,150500
+1287,NWAmes,1Story,1963,HdBoard,TA,Typ,6,WD,Normal,143000
+1310,SawyerW,1Story,1991,HdBoard,TA,Typ,6,WD,Normal,179200
+1408,Mitchel,1Story,1985,HdBoard,TA,Typ,3,WD,Normal,112000
+1447,Mitchel,1Story,1962,HdBoard,TA,Typ,4,WD,Normal,157900
+15,NAmes,1Story,1960,MetalSd,TA,Typ,5,WD,Normal,157000
+17,NAmes,1Story,1970,Wd Sdng,TA,Typ,3,WD,Normal,149000
+27,NAmes,1Story,1951,Wd Sdng,TA,Typ,5,WD,Normal,134800
+29,NAmes,1Story,1957,MetalSd,TA,Typ,12,WD,Normal,207500
+34,NAmes,1Story,1959,BrkFace,TA,Typ,4,WD,Normal,165500
+38,NAmes,1Story,1954,Wd Sdng,TA,Typ,10,WD,Normal,153000
+45,NAmes,1Story,1959,BrkFace,TA,Typ,5,WD,Normal,141000
+56,NAmes,1Story,1964,HdBoard,TA,Typ,7,WD,Normal,180500
+71,NAmes,1Story,1973,Plywood,TA,Typ,2,WD,Normal,244000
+74,NAmes,1Story,1954,Wd Sdng,TA,Typ,5,WD,Normal,144900
+91,NAmes,1Story,1950,BrkFace,TA,Typ,7,WD,Normal,109900
+100,NAmes,1Story,1959,Plywood,TA,Typ,1,WD,Normal,128950
+123,NAmes,1Story,1958,MetalSd,TA,Typ,6,WD,Normal,136000
+133,NAmes,1Story,1959,MetalSd,TA,Typ,7,WD,Normal,150750
+137,NAmes,1Story,1967,MetalSd,TA,Typ,7,WD,Normal,143000
+157,NAmes,1Story,1950,Wd Sdng,TA,Typ,6,WD,Normal,109500
+172,NAmes,1Story,1960,BrkFace,TA,Typ,5,WD,Normal,215000
+208,NAmes,1Story,1960,Wd Sdng,TA,Typ,4,WD,Normal,141000
+210,NAmes,1Story,1964,HdBoard,TA,Typ,7,WD,Normal,145000
+231,NAmes,1Story,1959,MetalSd,TA,Typ,4,WD,Normal,148000
+248,NAmes,1Story,1954,Wd Sdng,TA,Typ,6,WD,Normal,140000
+255,NAmes,1Story,1957,MetalSd,TA,Typ,6,WD,Normal,145000
+288,NAmes,1Story,1971,HdBoard,TA,Typ,6,WD,Normal,88000
+295,NAmes,1Story,1953,HdBoard,TA,Typ,10,WD,Normal,167000
+328,NAmes,1Story,1960,Wd Sdng,TA,Typ,4,WD,Normal,145250
+331,NAmes,1Story,1964,HdBoard,TA,Typ,11,WD,Normal,119000
+332,NAmes,1Story,1958,Wd Sdng,TA,Typ,8,WD,Normal,139000
+340,NAmes,1Story,1958,Wd Sdng,TA,Typ,6,WD,Normal,155000
+343,NAmes,1Story,1949,Stucco,TA,Typ,5,WD,Normal,87500
+347,NAmes,1Story,1960,MetalSd,TA,Typ,4,WD,Normal,151500
+348,NAmes,1Story,1960,Wd Sdng,TA,Typ,12,WD,Normal,157500
+367,NAmes,1Story,1963,Plywood,TA,Typ,7,WD,Normal,159000
+369,NAmes,1Story,1954,HdBoard,TA,Typ,3,WD,Normal,132000
+370,NAmes,1Story,1959,Wd Sdng,TA,Typ,3,WD,Normal,162000
+393,NAmes,1Story,1959,MetalSd,TA,Typ,7,WD,Normal,106500
+425,NAmes,1Story,1956,Wd Sdng,TA,Typ,5,WD,Normal,139000
+428,NAmes,1Story,1957,MetalSd,TA,Typ,7,WD,Normal,109008
+467,NAmes,1Story,1970,Plywood,TA,Typ,4,WD,Normal,167000
+487,NAmes,1Story,1965,MetalSd,TA,Typ,6,WD,Normal,156000
+494,NAmes,1Story,1960,BrkFace,TA,Typ,6,WD,Normal,155000
+500,NAmes,1Story,1958,MetalSd,TA,Typ,6,WD,Normal,120000
+510,NAmes,1Story,1959,MetalSd,TA,Typ,7,WD,Normal,124500
+527,NAmes,1Story,1956,Wd Sdng,TA,Typ,6,WD,Normal,132000
+557,NAmes,1Story,1957,Wd Sdng,TA,Typ,5,WD,Normal,141000
+571,NAmes,1Story,1965,HdBoard,TA,Typ,11,WD,Normal,142600
+581,NAmes,1Story,1960,Wd Sdng,TA,Typ,6,WD,Normal,181900
+626,NAmes,1Story,1962,Wd Sdng,TA,Typ,2,WD,Normal,160000
+634,NAmes,1Story,1954,Wd Sdng,TA,Typ,7,WD,Normal,139400
+646,NAmes,1Story,1971,Plywood,TA,Typ,3,WD,Normal,143250
+675,NAmes,1Story,1965,HdBoard,TA,Typ,7,WD,Normal,140000
+723,NAmes,1Story,1970,MetalSd,TA,Typ,7,WD,Normal,124500
+726,NAmes,1Story,1970,HdBoard,TA,Typ,11,WD,Normal,120500
+737,NAmes,1Story,1950,Stucco,TA,Typ,7,WD,Normal,93500
+755,NAmes,1Story,1969,Plywood,TA,Typ,7,WD,Normal,156000
+761,NAmes,1Story,1959,Wd Sdng,TA,Typ,10,WD,Normal,127500
+817,NAmes,1Story,1954,BrkFace,TA,Typ,7,WD,Normal,137000
+831,NAmes,1Story,1957,HdBoard,TA,Typ,6,WD,Normal,166000
+834,NAmes,1Story,1964,HdBoard,TA,Typ,2,WD,Normal,167000
+844,NAmes,1Story,1961,BrkFace,TA,Typ,7,WD,Normal,141000
+864,NAmes,1Story,1959,BrkFace,TA,Typ,7,WD,Normal,132500
+866,NAmes,1Story,1970,MetalSd,TA,Typ,8,WD,Normal,148500
+871,NAmes,1Story,1962,MetalSd,TA,Typ,8,WD,Normal,109500
+885,NAmes,1Story,1967,HdBoard,TA,Typ,7,WD,Normal,100000
+890,NAmes,1Story,1953,Wd Sdng,TA,Typ,2,WD,Normal,149500
+901,NAmes,1Story,1971,HdBoard,TA,Typ,6,WD,Normal,110000
+902,NAmes,1Story,1957,MetalSd,TA,Typ,5,WD,Normal,153000
+906,NAmes,1Story,1954,HdBoard,TA,Typ,2,WD,Normal,128000
+935,NAmes,1Story,1960,Wd Sdng,TA,Typ,11,WD,Normal,242000
+968,NAmes,1Story,1955,Wd Sdng,TA,Typ,7,WD,Normal,135000
+1007,NAmes,1Story,1970,Plywood,TA,Typ,3,WD,Normal,163500
+1015,NAmes,1Story,1948,MetalSd,TA,Typ,11,WD,Normal,119200
+1027,NAmes,1Story,1960,MetalSd,TA,Typ,4,WD,Normal,167500
+1065,NAmes,1Story,1966,Plywood,TA,Typ,11,WD,Normal,154000
+1071,NAmes,1Story,1956,MetalSd,TA,Typ,6,WD,Normal,135000
+1084,NAmes,1Story,1964,HdBoard,TA,Typ,3,WD,Normal,160000
+1091,NAmes,1Story,1950,BrkFace,TA,Typ,6,WD,Normal,92900
+1094,NAmes,1Story,1965,MetalSd,TA,Typ,10,WD,Normal,146000
+1095,NAmes,1Story,1956,MetalSd,TA,Typ,5,WD,Normal,129000
+1102,NAmes,1Story,1971,HdBoard,TA,Typ,7,WD,Normal,119500
+1104,NAmes,1Story,1959,BrkFace,TA,Typ,7,WD,Normal,159500
+1113,NAmes,1Story,1957,WdShing,TA,Typ,7,WD,Normal,129900
+1114,NAmes,1Story,1953,Wd Sdng,TA,Typ,5,WD,Normal,134500
+1120,NAmes,1Story,1959,BrkFace,TA,Typ,7,WD,Normal,133700
+1126,NAmes,1Story,1955,Plywood,TA,Typ,11,WD,Normal,115000
+1151,NAmes,1Story,1950,BrkFace,TA,Typ,11,WD,Normal,124000
+1172,NAmes,1Story,1958,MetalSd,TA,Typ,11,WD,Normal,163000
+1209,NAmes,1Story,1962,MetalSd,TA,Typ,10,WD,Normal,140000
+1233,NAmes,1Story,1962,HdBoard,TA,Typ,3,WD,Normal,101800
+1250,NAmes,1Story,1950,MetalSd,TA,Typ,5,WD,Normal,119000
+1260,NAmes,1Story,1969,HdBoard,TA,Typ,7,WD,Normal,151000
+1262,NAmes,1Story,1956,MetalSd,TA,Typ,6,WD,Normal,128900
+1296,NAmes,1Story,1968,HdBoard,TA,Typ,11,WD,Normal,138500
+1297,NAmes,1Story,1963,MetalSd,TA,Typ,12,WD,Normal,155000
+1300,NAmes,1Story,1959,BrkFace,TA,Typ,5,WD,Normal,154000
+1321,NAmes,1Story,1957,BrkFace,TA,Typ,6,WD,Normal,156500
+1341,NAmes,1Story,1971,MetalSd,TA,Typ,6,WD,Normal,123000
+1357,NAmes,1Story,1966,HdBoard,TA,Typ,10,WD,Normal,110000
+1382,NAmes,1Story,1970,BrkFace,TA,Typ,5,WD,Normal,237500
+1413,NAmes,1Story,1949,BrkFace,TA,Typ,6,WD,Normal,90000
+1437,NAmes,1Story,1971,HdBoard,TA,Typ,5,WD,Normal,120500
+1459,NAmes,1Story,1950,MetalSd,TA,Typ,4,WD,Normal,142125
+8,NWAmes,2Story,1973,HdBoard,TA,Typ,11,WD,Normal,200000
+31,IDOTRR,2Story,1920,BrkFace,TA,Typ,7,WD,Normal,40000
+64,OldTown,2Story,1921,Stucco,TA,Typ,4,WD,Normal,140000
+80,OldTown,2Story,1910,Wd Sdng,TA,Typ,5,WD,Normal,110000
+115,Crawfor,2Story,1945,Wd Sdng,TA,Typ,7,WD,Normal,259500
+116,Somerst,2Story,1999,MetalSd,TA,Typ,6,WD,Normal,176000
+119,SawyerW,2Story,1990,Plywood,TA,Typ,5,WD,Normal,320000
+131,NAmes,2Story,1966,MetalSd,TA,Typ,5,WD,Normal,226000
+153,NWAmes,2Story,1971,HdBoard,TA,Typ,6,WD,Normal,190000
+182,Crawfor,2Story,1920,Stucco,TA,Typ,7,WD,Normal,200100
+192,NAmes,2Story,1972,HdBoard,TA,Typ,6,WD,Normal,184000
+196,NPkVill,2Story,1976,Plywood,TA,Typ,7,WD,Normal,148500
+215,CollgCr,2Story,1977,HdBoard,TA,Typ,3,WD,Normal,161750
+228,BrDale,2Story,1970,HdBoard,TA,Typ,9,WD,Normal,106000
+233,BrDale,2Story,1972,HdBoard,TA,Typ,6,WD,Normal,94500
+236,BrDale,2Story,1971,HdBoard,TA,Typ,8,WD,Normal,89500
+244,SawyerW,2Story,1980,Plywood,TA,Typ,4,WD,Normal,120000
+247,OldTown,2Story,1910,AsbShng,TA,Typ,4,WD,Normal,137000
+280,ClearCr,2Story,1977,Plywood,TA,Typ,3,WD,Normal,192000
+290,BrkSide,2Story,1915,Wd Sdng,TA,Typ,7,WD,Normal,153575
+294,NWAmes,2Story,1977,Plywood,TA,Typ,3,WD,Normal,235000
+311,Gilbert,2Story,1993,HdBoard,TA,Typ,5,WD,Normal,165600
+315,OldTown,2Story,1925,Wd Sdng,TA,Typ,8,WD,Normal,178000
+330,IDOTRR,2Story,1920,Wd Sdng,TA,Typ,7,WD,Normal,78000
+345,MeadowV,2Story,1976,CemntBd,TA,Typ,4,WD,Normal,85000
+364,BrDale,2Story,1972,HdBoard,TA,Typ,5,WD,Normal,118000
+365,NWAmes,2Story,1976,HdBoard,TA,Typ,7,WD,Normal,190000
+405,Gilbert,2Story,1995,MetalSd,TA,Typ,5,WD,Normal,168000
+408,Crawfor,2Story,1915,Wd Sdng,TA,Typ,3,WD,Normal,177000
+417,Sawyer,2Story,1978,HdBoard,TA,Typ,3,WD,Normal,149500
+418,Crawfor,2Story,1918,Wd Sdng,TA,Typ,11,WD,Normal,239000
+426,OldTown,2Story,1946,HdBoard,TA,Typ,9,WD,Normal,135000
+459,OldTown,2Story,1925,Stucco,TA,Typ,6,WD,Normal,161000
+464,Crawfor,2Story,1934,Stucco,TA,Typ,8,WD,Normal,188700
+468,NAmes,2Story,1942,MetalSd,TA,Typ,6,WD,Normal,146500
+472,NWAmes,2Story,1977,WdShing,TA,Typ,11,WD,Normal,190000
+491,MeadowV,2Story,1976,CemntBd,TA,Typ,6,WD,Normal,115000
+501,BrDale,2Story,1973,HdBoard,TA,Typ,5,WD,Normal,113000
+505,NPkVill,2Story,1974,Plywood,TA,Typ,6,WD,Normal,147000
+509,OldTown,2Story,1928,MetalSd,TA,Typ,10,WD,Normal,161000
+521,OldTown,2Story,1900,MetalSd,TA,Typ,8,WD,Normal,106250
+532,BrkSide,2Story,1920,Wd Sdng,TA,Typ,6,WD,Normal,128000
+536,Edwards,2Story,1910,MetalSd,TA,Typ,1,WD,Normal,107500
+559,Gilbert,2Story,1996,HdBoard,TA,Typ,8,WD,Normal,175000
+566,SWISU,2Story,1915,Wd Sdng,TA,Typ,5,WD,Normal,128000
+606,NAmes,2Story,1965,HdBoard,TA,Typ,10,WD,Normal,205000
+608,Edwards,2Story,1948,MetalSd,TA,Typ,8,WD,Normal,225000
+622,NWAmes,2Story,1974,HdBoard,TA,Typ,6,WD,Normal,240000
+649,NAmes,2Story,1966,MetalSd,TA,Typ,6,WD,Normal,155000
+652,Edwards,2Story,1940,MetalSd,TA,Typ,10,WD,Normal,108000
+658,Crawfor,2Story,1931,Stucco,TA,Typ,2,WD,Normal,149000
+661,NWAmes,2Story,1976,Plywood,TA,Typ,11,WD,Normal,197900
+672,Edwards,2Story,1925,Wd Sdng,TA,Typ,7,WD,Normal,103600
+676,NPkVill,2Story,1978,Plywood,TA,Typ,4,WD,Normal,148500
+704,OldTown,2Story,1900,Wd Sdng,TA,Typ,5,WD,Normal,140000
+717,OldTown,2Story,1890,Wd Sdng,TA,Typ,7,WD,Normal,159500
+756,Somerst,2Story,1999,MetalSd,TA,Typ,3,WD,Normal,172500
+759,Somerst,2Story,1999,MetalSd,TA,Typ,8,WD,Normal,179400
+767,NWAmes,2Story,1988,HdBoard,TA,Typ,3,WD,Normal,196500
+790,ClearCr,2Story,1966,HdBoard,TA,Typ,7,WD,Normal,187500
+796,SawyerW,2Story,1980,HdBoard,TA,Typ,4,WD,Normal,171000
+808,BrkSide,2Story,1923,Wd Sdng,TA,Typ,5,WD,Normal,223500
+832,Somerst,2Story,2005,MetalSd,TA,Typ,6,WD,Normal,151000
+838,BrDale,2Story,1973,HdBoard,TA,Typ,11,WD,Normal,100000
+841,SWISU,2Story,1925,Wd Sdng,TA,Typ,3,WD,Normal,140000
+842,OldTown,2Story,1904,MetalSd,TA,Typ,6,WD,Normal,157500
+858,Gilbert,2Story,1994,HdBoard,TA,Typ,3,WD,Normal,174000
+860,NWAmes,2Story,1968,HdBoard,TA,Typ,8,WD,Normal,250000
+869,Gilbert,2Story,1948,Plywood,TA,Typ,5,WD,Normal,169000
+892,Sawyer,2Story,1978,HdBoard,TA,Typ,7,WD,Normal,172500
+896,NAmes,2Story,1963,HdBoard,TA,Typ,10,WD,Normal,140000
+911,NAmes,2Story,1960,MetalSd,TA,Typ,1,WD,Normal,154300
+914,Crawfor,2Story,1949,MetalSd,TA,Typ,8,WD,Normal,145000
+916,MeadowV,2Story,1970,CemntBd,TA,Typ,1,WD,Normal,75000
+928,NWAmes,2Story,1968,MetalSd,TA,Typ,4,WD,Normal,176000
+930,Gilbert,2Story,1997,HdBoard,TA,Typ,11,WD,Normal,222000
+956,Crawfor,2Story,1946,MetalSd,TA,Typ,8,WD,Normal,145000
+957,Blueste,2Story,1980,MetalSd,TA,Typ,5,WD,Normal,124000
+962,NWAmes,2Story,1977,HdBoard,TA,Typ,7,WD,Normal,272000
+963,NPkVill,2Story,1976,Plywood,TA,Typ,7,WD,Normal,155000
+975,BrkSide,2Story,1910,HdBoard,TA,Typ,10,WD,Normal,167500
+989,NWAmes,2Story,1976,Plywood,TA,Typ,6,WD,Normal,195000
+993,NAmes,2Story,1964,Wd Sdng,TA,Typ,7,WD,Normal,187000
+1008,MeadowV,2Story,1970,CemntBd,TA,Typ,8,WD,Normal,88000
+1013,Crawfor,2Story,1923,Wd Sdng,TA,Typ,8,WD,Normal,165000
+1030,BrDale,2Story,1972,HdBoard,TA,Typ,5,WD,Normal,118000
+1039,MeadowV,2Story,1970,CemntBd,TA,Typ,5,WD,Normal,97000
+1042,NWAmes,2Story,1966,HdBoard,TA,Typ,7,WD,Normal,173000
+1044,SawyerW,2Story,1990,HdBoard,TA,Typ,5,WD,Normal,262280
+1068,NAmes,2Story,1964,HdBoard,TA,Typ,6,WD,Normal,167900
+1072,NWAmes,2Story,1968,MetalSd,TA,Typ,5,WD,Normal,154000
+1074,Edwards,2Story,1977,HdBoard,TA,Typ,7,WD,Normal,159500
+1085,Gilbert,2Story,1995,HdBoard,TA,Typ,7,WD,Normal,187500
+1087,MeadowV,2Story,1973,CemntBd,TA,Typ,5,WD,Normal,83500
+1097,IDOTRR,2Story,1914,Wd Sdng,TA,Typ,3,WD,Normal,127000
+1105,BrDale,2Story,1970,HdBoard,TA,Typ,4,WD,Normal,106000
+1111,Gilbert,2Story,1995,HdBoard,TA,Typ,6,WD,Normal,188000
+1112,NWAmes,2Story,1976,Plywood,TA,Typ,9,WD,Normal,205000
+1133,OldTown,2Story,1880,Wd Sdng,TA,Typ,5,WD,Normal,117500
+1142,NWAmes,2Story,1976,Plywood,TA,Typ,10,WD,Normal,197500
+1148,Crawfor,2Story,1941,MetalSd,TA,Typ,7,WD,Normal,174500
+1161,NPkVill,2Story,1978,Plywood,TA,Typ,7,WD,Normal,146000
+1169,Edwards,2Story,1935,Stucco,TA,Typ,7,WD,Normal,235000
+1175,Crawfor,2Story,1932,Wd Sdng,TA,Typ,7,WD,Normal,239000
+1181,Timber,2Story,1990,MetalSd,TA,Typ,4,WD,Normal,250000
+1195,Sawyer,2Story,1969,HdBoard,TA,Typ,3,WD,Normal,158000
+1236,Crawfor,2Story,1914,Wd Sdng,TA,Typ,7,WD,Normal,138887
+1245,Crawfor,2Story,1929,BrkFace,TA,Typ,6,WD,Normal,230000
+1264,BrkSide,2Story,1919,Wd Sdng,TA,Typ,7,WD,Normal,180500
+1276,NAmes,2Story,1948,AsbShng,TA,Typ,7,WD,Normal,137000
+1277,NWAmes,2Story,1972,HdBoard,TA,Typ,12,WD,Normal,162000
+1284,Mitchel,2Story,1971,MetalSd,TA,Typ,4,WD,Normal,139000
+1292,BrDale,2Story,1972,CemntBd,TA,Typ,2,WD,Normal,119500
+1294,NWAmes,2Story,1976,HdBoard,TA,Typ,3,WD,Normal,162900
+1302,Crawfor,2Story,1942,Wd Sdng,TA,Typ,11,WD,Normal,177500
+1316,NAmes,2Story,1969,HdBoard,TA,Typ,6,WD,Normal,206900
+1350,OldTown,2Story,1872,MetalSd,TA,Typ,12,WD,Normal,122000
+1351,NAmes,2Story,1969,MetalSd,TA,Typ,8,WD,Normal,200000
+1352,NAmes,2Story,1962,HdBoard,TA,Typ,3,WD,Normal,171000
+1361,SWISU,2Story,1921,MetalSd,TA,Typ,5,WD,Normal,189000
+1368,MeadowV,2Story,1977,CemntBd,TA,Typ,7,WD,Normal,127000
+1379,BrDale,2Story,1973,HdBoard,TA,Typ,6,WD,Normal,83000
+1383,OldTown,2Story,1920,Wd Sdng,TA,Typ,10,WD,Normal,157000
+1387,NWAmes,2Story,1978,Plywood,TA,Typ,7,WD,Normal,250000
+1398,BrkSide,2Story,1920,MetalSd,TA,Typ,5,WD,Normal,137500
+1410,NWAmes,2Story,1986,Plywood,TA,Typ,11,WD,Normal,215000
+1421,NWAmes,2Story,1968,HdBoard,TA,Typ,5,WD,Normal,179900
+86,NoRidge,2Story,1991,HdBoard,Gd,Typ,4,WD,Normal,260000
+102,SawyerW,2Story,1985,HdBoard,Gd,Typ,6,WD,Normal,178000
+173,StoneBr,2Story,1987,HdBoard,Gd,Typ,6,WD,Normal,239000
+177,ClearCr,2Story,1988,Plywood,Gd,Typ,9,WD,Normal,211000
+181,Somerst,2Story,2000,MetalSd,Gd,Typ,6,WD,Normal,177000
+209,SawyerW,2Story,1988,Plywood,Gd,Typ,4,WD,Normal,277000
+238,SawyerW,2Story,1993,HdBoard,Gd,Typ,2,WD,Normal,194500
+281,SawyerW,2Story,1989,Plywood,Gd,Typ,1,WD,Normal,228500
+299,NWAmes,2Story,1968,HdBoard,Gd,Typ,6,WD,Normal,175000
+307,SawyerW,2Story,1990,HdBoard,Gd,Typ,6,WD,Normal,225000
+317,NWAmes,2Story,1980,CemntBd,Gd,Typ,8,WD,Normal,260000
+319,NoRidge,2Story,1993,HdBoard,Gd,Typ,4,WD,Normal,260000
+323,SawyerW,2Story,1986,Plywood,Gd,Typ,8,WD,Normal,301000
+378,Somerst,2Story,2004,CemntBd,Gd,Typ,12,WD,Normal,340000
+385,ClearCr,2Story,1992,HdBoard,Gd,Typ,6,WD,Normal,240000
+400,Somerst,2Story,2006,CemntBd,Gd,Typ,10,WD,Normal,241000
+462,SWISU,2Story,1936,Wd Sdng,Gd,Typ,4,WD,Normal,155000
+470,SawyerW,2Story,1993,HdBoard,Gd,Typ,6,WD,Normal,187000
+520,Crawfor,2Story,1926,MetalSd,Gd,Typ,6,WD,Normal,234000
+565,NoRidge,2Story,1992,HdBoard,Gd,Typ,7,WD,Normal,268000
+604,Somerst,2Story,2004,MetalSd,Gd,Typ,6,WD,Normal,151000
+624,Somerst,2Story,2000,MetalSd,Gd,Typ,6,WD,Normal,168500
+651,Somerst,2Story,2007,CemntBd,Gd,Typ,5,WD,Normal,205950
+688,Somerst,2Story,2004,MetalSd,Gd,Typ,3,WD,Normal,148800
+692,NoRidge,2Story,1994,HdBoard,Ex,Typ,1,WD,Normal,755000
+693,Timber,2Story,1989,MetalSd,Gd,Typ,4,WD,Normal,335000
+715,Sawyer,2Story,1976,HdBoard,Gd,Typ,3,WD,Normal,130500
+719,NoRidge,2Story,1993,Wd Sdng,Gd,Typ,8,WD,Normal,341000
+748,OldTown,2Story,1880,Stucco,Gd,Typ,5,WD,Normal,265979
+793,NoRidge,2Story,1996,MetalSd,Gd,Typ,6,WD,Normal,269790
+795,Gilbert,2Story,1994,MetalSd,Gd,Typ,10,WD,Normal,194500
+803,CollgCr,2Story,2005,WdShing,Gd,Typ,10,WD,Normal,189000
+830,Somerst,2Story,2005,MetalSd,Gd,Typ,7,WD,Normal,147400
+847,SawyerW,2Story,1993,HdBoard,Gd,Typ,7,WD,Normal,213000
+870,SawyerW,2Story,1993,MetalSd,Gd,Typ,6,WD,Normal,236000
+919,SawyerW,2Story,1991,HdBoard,Gd,Typ,11,WD,Normal,238000
+921,SawyerW,2Story,1994,HdBoard,Gd,Typ,7,WD,Normal,201000
+960,Somerst,2Story,1999,MetalSd,Gd,Typ,5,WD,Normal,155000
+976,Somerst,2Story,2000,MetalSd,Gd,Typ,4,WD,Normal,165000
+984,CollgCr,2Story,2002,CemntBd,Gd,Typ,5,WD,Normal,255900
+992,OldTown,2Story,1882,Wd Sdng,Gd,Typ,11,WD,Normal,168000
+1058,NoRidge,2Story,1994,HdBoard,Gd,Typ,1,WD,Normal,248000
+1066,ClearCr,2Story,1996,Wd Sdng,Gd,Typ,4,WD,Normal,328000
+1092,Somerst,2Story,1999,MetalSd,Gd,Typ,3,WD,Normal,160000
+1106,NoRidge,2Story,1994,HdBoard,Gd,Typ,4,WD,Normal,325000
+1160,NWAmes,2Story,1974,HdBoard,Gd,Typ,7,WD,Normal,185000
+1170,NoRidge,2Story,1995,HdBoard,Gd,Typ,7,WD,Normal,625000
+1173,Somerst,2Story,2006,MetalSd,Gd,Typ,3,WD,Normal,171900
+1192,Somerst,2Story,1999,MetalSd,Gd,Typ,11,WD,Normal,174000
+1211,SawyerW,2Story,1992,Wd Sdng,Gd,Typ,5,WD,Normal,189000
+1254,Veenker,2Story,1974,Wd Sdng,Gd,Typ,7,WD,Normal,294000
+1266,Somerst,2Story,1999,MetalSd,Gd,Typ,3,WD,Normal,183900
+1313,NoRidge,2Story,1990,Wd Sdng,Gd,Typ,6,WD,Normal,302000
+1323,NoRidge,2Story,1992,HdBoard,Gd,Typ,6,WD,Normal,190000
+1359,Somerst,2Story,2000,MetalSd,Gd,Typ,6,WD,Normal,177500
+1375,Somerst,2Story,2005,CemntBd,Gd,Typ,7,WD,Normal,250000
+1458,Crawfor,2Story,1941,CemntBd,Ex,Typ,5,WD,Normal,266500
+51,Gilbert,2Story,1997,VinylSd,TA,Typ,7,WD,Normal,177000
+65,CollgCr,2Story,1997,VinylSd,TA,Typ,2,WD,Normal,219500
+73,Gilbert,2Story,1998,VinylSd,TA,Typ,12,WD,Normal,185000
+81,NAmes,2Story,1968,VinylSd,TA,Typ,6,WD,Normal,193500
+95,CollgCr,2Story,1997,VinylSd,TA,Typ,5,WD,Normal,204750
+96,Gilbert,2Story,1993,VinylSd,Ex,Typ,4,WD,Normal,185000
+129,NAmes,2Story,1966,VinylSd,TA,Typ,7,WD,Normal,155000
+140,CollgCr,2Story,1997,VinylSd,TA,Typ,8,WD,Normal,231500
+223,NWAmes,2Story,1975,VinylSd,TA,Typ,2,WD,Normal,179900
+267,Gilbert,2Story,1997,VinylSd,TA,Typ,6,WD,Normal,185000
+292,SWISU,2Story,1912,VinylSd,TA,Typ,3,WD,Normal,135900
+335,Gilbert,2Story,1998,VinylSd,TA,Typ,7,WD,Normal,192000
+366,IDOTRR,2Story,1920,VinylSd,TA,Typ,7,WD,Normal,147000
+371,Gilbert,2Story,2000,VinylSd,TA,Typ,1,WD,Normal,172400
+380,Gilbert,2Story,2000,VinylSd,TA,Typ,6,WD,Normal,179000
+392,Mitchel,2Story,2001,VinylSd,TA,Typ,6,WD,Normal,215000
+398,NAmes,2Story,1962,VinylSd,TA,Typ,7,WD,Normal,169500
+434,Gilbert,2Story,1997,VinylSd,TA,Typ,7,WD,Normal,181000
+478,NridgHt,2Story,2006,VinylSd,Ex,Typ,3,WD,Normal,380000
+519,CollgCr,2Story,1998,VinylSd,TA,Typ,5,WD,Normal,211000
+537,CollgCr,2Story,1998,VinylSd,TA,Typ,7,WD,Normal,188000
+597,OldTown,2Story,1910,VinylSd,TA,Typ,10,WD,Normal,114504
+746,NWAmes,2Story,1976,VinylSd,Ex,Typ,7,WD,Normal,299800
+801,ClearCr,2Story,1997,VinylSd,TA,Typ,5,WD,Normal,200000
+872,CollgCr,2Story,1998,VinylSd,TA,Typ,6,WD,Normal,200500
+883,Gilbert,2Story,1992,VinylSd,TA,Typ,12,WD,Normal,178000
+1031,SWISU,2Story,1916,VinylSd,TA,Typ,7,WD,Normal,160000
+1053,NAmes,2Story,1964,VinylSd,TA,Typ,6,WD,Normal,165000
+1059,NridgHt,2Story,2008,VinylSd,Ex,Typ,7,WD,Normal,335000
+1135,Gilbert,2Story,1997,VinylSd,TA,Typ,8,WD,Normal,169000
+1150,OldTown,2Story,1920,VinylSd,TA,Typ,7,WD,Normal,143000
+1155,NAmes,2Story,1965,VinylSd,TA,Typ,5,WD,Normal,201800
+1168,Gilbert,2Story,2000,VinylSd,TA,Typ,2,WD,Normal,173000
+1190,Gilbert,2Story,1999,VinylSd,TA,Typ,6,WD,Normal,189000
+1196,Gilbert,2Story,2005,VinylSd,TA,Typ,7,WD,Normal,176000
+1202,CollgCr,2Story,1998,VinylSd,TA,Typ,3,WD,Normal,197900
+1261,Gilbert,2Story,1999,VinylSd,TA,Typ,6,WD,Normal,181000
+1330,Gilbert,2Story,1998,VinylSd,TA,Typ,6,WD,Normal,176500
+1373,CollgCr,2Story,1998,VinylSd,TA,Typ,6,WD,Normal,274300
+1402,Gilbert,2Story,2004,VinylSd,TA,Typ,4,WD,Normal,193000
+1409,OldTown,2Story,1910,VinylSd,TA,Typ,6,WD,Normal,125500
+1417,OldTown,2Story,1885,VinylSd,TA,Typ,4,WD,Normal,122500
+1434,Gilbert,2Story,2000,VinylSd,TA,Typ,5,WD,Normal,186500
+1443,Somerst,2Story,2008,VinylSd,Ex,Typ,4,WD,Normal,310000
+1451,NAmes,2Story,1974,VinylSd,TA,Typ,9,WD,Normal,136000
+1456,Gilbert,2Story,1999,VinylSd,TA,Typ,8,WD,Normal,175000
+1,CollgCr,2Story,2003,VinylSd,Gd,Typ,2,WD,Normal,208500
+3,CollgCr,2Story,2001,VinylSd,Gd,Typ,9,WD,Normal,223500
+5,NoRidge,2Story,2000,VinylSd,Gd,Typ,12,WD,Normal,250000
+36,NridgHt,2Story,2004,VinylSd,Gd,Typ,9,WD,Normal,309000
+58,CollgCr,2Story,2004,VinylSd,Gd,Typ,8,WD,Normal,196500
+66,NridgHt,2Story,2004,VinylSd,Gd,Typ,10,WD,Normal,317000
+75,OldTown,2Story,1915,VinylSd,Gd,Typ,5,WD,Normal,107400
+87,Gilbert,2Story,2005,VinylSd,Gd,Typ,3,WD,Normal,174000
+106,Somerst,2Story,2003,VinylSd,Gd,Typ,8,WD,Normal,250000
+132,Gilbert,2Story,2000,VinylSd,Gd,Typ,7,WD,Normal,244000
+139,CollgCr,2Story,1999,VinylSd,Gd,Typ,12,WD,Normal,230000
+148,Gilbert,2Story,2001,VinylSd,Gd,Typ,5,WD,Normal,222500
+159,Somerst,2Story,2004,VinylSd,Gd,Typ,5,WD,Normal,254900
+162,NridgHt,2Story,2003,VinylSd,Gd,Typ,3,WD,Normal,412500
+169,Gilbert,2Story,2004,VinylSd,Gd,Typ,5,WD,Normal,183500
+232,NoRidge,2Story,1995,VinylSd,Gd,Typ,7,WD,Normal,403000
+235,Gilbert,2Story,2002,VinylSd,Gd,Typ,5,WD,Normal,216500
+245,SawyerW,2Story,1994,VinylSd,Gd,Typ,5,WD,Normal,205000
+249,CollgCr,2Story,2003,VinylSd,Gd,Typ,9,WD,Normal,180000
+253,SawyerW,2Story,2004,VinylSd,Gd,Typ,12,WD,Normal,173000
+256,Gilbert,2Story,1999,VinylSd,Gd,Typ,2,WD,Normal,230000
+257,Somerst,2Story,2003,VinylSd,Gd,Typ,5,WD,Normal,207500
+259,CollgCr,2Story,2001,VinylSd,Gd,Typ,5,WD,Normal,231500
+273,NoRidge,2Story,1999,VinylSd,Gd,Typ,4,WD,Normal,290000
+298,Somerst,2Story,1997,VinylSd,Gd,Typ,6,WD,Normal,239000
+302,CollgCr,2Story,1998,VinylSd,Gd,Typ,5,WD,Normal,267000
+316,Gilbert,2Story,2004,VinylSd,Gd,Typ,7,WD,Normal,188500
+318,Somerst,2Story,2006,VinylSd,Gd,Typ,12,WD,Normal,270000
+322,NridgHt,2Story,2004,VinylSd,Gd,Typ,6,WD,Normal,354000
+341,Timber,2Story,2002,VinylSd,Gd,Typ,4,WD,Normal,202900
+349,NridgHt,2Story,2003,VinylSd,Gd,Typ,10,WD,Normal,154000
+360,NoRidge,2Story,1998,VinylSd,Gd,Typ,6,WD,Normal,280000
+375,CollgCr,2Story,2003,VinylSd,Gd,Typ,7,WD,Normal,219500
+383,CollgCr,2Story,2006,VinylSd,Gd,Typ,4,WD,Normal,213500
+415,SawyerW,2Story,1993,VinylSd,Gd,Typ,12,WD,Normal,228000
+424,NoRidge,2Story,1998,VinylSd,Gd,Typ,6,WD,Normal,315000
+445,CollgCr,2Story,1994,VinylSd,Gd,Typ,7,WD,Normal,210000
+448,Gilbert,2Story,1998,VinylSd,Gd,Typ,7,WD,Normal,199900
+453,Timber,2Story,1996,VinylSd,Gd,Typ,7,WD,Normal,204000
+454,Somerst,2Story,2008,VinylSd,Gd,Typ,6,WD,Normal,210000
+502,Somerst,2Story,2005,VinylSd,Gd,Typ,2,WD,Normal,226700
+507,SawyerW,2Story,1993,VinylSd,Gd,Typ,9,WD,Normal,215000
+518,NoRidge,2Story,1996,VinylSd,Gd,Typ,7,WD,Normal,265000
+525,NoRidge,2Story,1996,VinylSd,Gd,Typ,8,WD,Normal,315750
+535,Gilbert,2Story,2004,VinylSd,Gd,Typ,10,WD,Normal,178000
+542,NoRidge,2Story,2000,VinylSd,Gd,Typ,6,WD,Normal,248000
+550,Somerst,2Story,2003,VinylSd,Gd,Typ,11,WD,Normal,263000
+555,NridgHt,2Story,2003,VinylSd,Gd,Typ,8,WD,Normal,284000
+567,StoneBr,2Story,2005,VinylSd,Gd,Typ,6,WD,Normal,325000
+591,CollgCr,2Story,2004,VinylSd,Gd,Typ,9,WD,Normal,185900
+601,NridgHt,2Story,2005,VinylSd,Gd,Typ,6,WD,Normal,275000
+611,CollgCr,2Story,2000,VinylSd,Gd,Typ,5,WD,Normal,313000
+613,CollgCr,2Story,2001,VinylSd,Gd,Typ,11,WD,Normal,261500
+617,Gilbert,2Story,2002,VinylSd,Gd,Typ,6,WD,Normal,183200
+620,Timber,2Story,2003,VinylSd,Gd,Typ,8,WD,Normal,305000
+642,Somerst,2Story,2001,VinylSd,Gd,Typ,5,WD,Normal,226000
+653,CollgCr,2Story,1996,VinylSd,Gd,Typ,7,WD,Normal,191000
+662,NoRidge,2Story,1994,VinylSd,Gd,Typ,7,WD,Normal,402000
+666,Gilbert,2Story,2000,VinylSd,Gd,Typ,11,WD,Normal,230500
+671,CollgCr,2Story,2005,VinylSd,Gd,Typ,2,WD,Normal,173500
+685,NoRidge,2Story,1998,VinylSd,Gd,Typ,6,WD,Normal,221000
+733,CollgCr,2Story,1998,VinylSd,Gd,Typ,7,WD,Normal,222500
+738,Gilbert,2Story,2005,VinylSd,Gd,Typ,6,WD,Normal,239900
+740,CollgCr,2Story,2004,VinylSd,Gd,Typ,4,WD,Normal,190000
+747,Gilbert,2Story,2000,VinylSd,Gd,Typ,4,WD,Normal,236000
+752,Gilbert,2Story,2003,VinylSd,Gd,Typ,8,WD,Normal,162000
+754,NridgHt,2Story,2005,VinylSd,Gd,Typ,3,WD,Normal,275500
+757,CollgCr,2Story,2007,VinylSd,Gd,Typ,4,WD,Normal,212000
+760,NoRidge,2Story,1995,VinylSd,Gd,Typ,11,WD,Normal,290000
+764,NoRidge,2Story,1999,VinylSd,Gd,Typ,7,WD,Normal,337000
+782,SawyerW,2Story,1992,VinylSd,Gd,Typ,7,WD,Normal,175900
+788,SawyerW,2Story,2004,VinylSd,Gd,Typ,1,WD,Normal,233000
+821,CollgCr,2Story,2003,VinylSd,Gd,Typ,6,WD,Normal,183000
+833,CollgCr,2Story,2003,VinylSd,Gd,Typ,1,WD,Normal,237000
+878,NridgHt,2Story,2004,VinylSd,Gd,Typ,6,WD,Normal,350000
+903,Gilbert,2Story,2003,VinylSd,Gd,Typ,7,WD,Normal,180000
+910,Gilbert,2Story,2005,VinylSd,Gd,Typ,6,WD,Normal,174000
+927,NridgHt,2Story,2003,VinylSd,Gd,Typ,5,WD,Normal,285000
+938,Somerst,2Story,2005,VinylSd,Gd,Typ,2,WD,Normal,253000
+942,Gilbert,2Story,1999,VinylSd,Gd,Typ,6,WD,Normal,214000
+949,CollgCr,2Story,2002,VinylSd,Gd,Typ,2,WD,Normal,192500
+965,Timber,2Story,2002,VinylSd,Gd,Typ,2,WD,Normal,214900
+972,NridgHt,2Story,2003,VinylSd,Gd,Typ,7,WD,Normal,173000
+982,NoRidge,2Story,1998,VinylSd,Gd,Typ,7,WD,Normal,336000
+991,NoRidge,2Story,1997,VinylSd,Gd,Typ,6,WD,Normal,348000
+1016,NWAmes,2Story,2001,VinylSd,Gd,Typ,11,WD,Normal,227000
+1038,CollgCr,2Story,2001,VinylSd,Gd,Typ,9,WD,Normal,287000
+1055,CollgCr,2Story,2002,VinylSd,Gd,Typ,11,WD,Normal,255000
+1067,Gilbert,2Story,1993,VinylSd,Gd,Typ,5,WD,Normal,178000
+1088,Somerst,2Story,2005,VinylSd,Gd,Typ,5,WD,Normal,252000
+1129,Gilbert,2Story,2004,VinylSd,Gd,Typ,7,WD,Normal,215000
+1134,SawyerW,2Story,1995,VinylSd,Gd,Typ,6,WD,Normal,239500
+1189,CollgCr,2Story,2002,VinylSd,Gd,Typ,7,WD,Normal,195000
+1225,Gilbert,2Story,2004,VinylSd,Gd,Typ,2,WD,Normal,184000
+1227,Somerst,2Story,2007,VinylSd,Gd,Typ,1,WD,Normal,214000
+1237,NridgHt,2Story,2003,VinylSd,Gd,Typ,6,WD,Normal,175500
+1238,CollgCr,2Story,2004,VinylSd,Gd,Typ,9,WD,Normal,195000
+1241,CollgCr,2Story,2003,VinylSd,Gd,Typ,7,WD,Normal,224900
+1255,Edwards,2Story,2003,VinylSd,Gd,Typ,7,WD,Normal,165400
+1279,CollgCr,2Story,2002,VinylSd,Gd,Typ,3,WD,Normal,237000
+1301,Gilbert,2Story,1999,VinylSd,Gd,Typ,5,WD,Normal,225000
+1303,NoRidge,2Story,1994,VinylSd,Gd,Typ,12,WD,Normal,290000
+1314,NoRidge,2Story,1999,VinylSd,Gd,Typ,5,WD,Normal,333168
+1339,CollgCr,2Story,2002,VinylSd,Gd,Typ,6,WD,Normal,200000
+1343,CollgCr,2Story,2002,VinylSd,Gd,Typ,8,WD,Normal,228500
+1355,CollgCr,2Story,2000,VinylSd,Gd,Typ,6,WD,Normal,235000
+1366,Somerst,2Story,2000,VinylSd,Gd,Typ,1,WD,Normal,216000
+1396,Timber,2Story,2005,VinylSd,Gd,Typ,2,WD,Normal,281213
+1411,CollgCr,2Story,2001,VinylSd,Gd,Typ,6,WD,Normal,230000
+1418,NoRidge,2Story,1998,VinylSd,Gd,Typ,5,WD,Normal,340000
+1427,NoRidge,2Story,1994,VinylSd,Gd,Typ,8,WD,Normal,271000
+1431,Gilbert,2Story,2005,VinylSd,Gd,Typ,7,WD,Normal,192140
+1448,CollgCr,2Story,1995,VinylSd,Gd,Typ,12,WD,Normal,240000
+70,ClearCr,1.5Fin,1953,BrkFace,Gd,Typ,7,WD,Normal,225000
+178,Sawyer,1.5Fin,1958,MetalSd,Gd,Typ,7,WD,Normal,172500
+186,OldTown,2.5Fin,1892,Wd Sdng,Gd,Typ,6,WD,Normal,475000
+219,Crawfor,1.5Fin,1939,VinylSd,Gd,Typ,5,WD,Normal,311500
+250,ClearCr,1.5Fin,1958,Wd Sdng,Gd,Typ,6,WD,Normal,277000
+276,BrkSide,1.5Fin,1925,Wd Sdng,Gd,Typ,10,WD,Normal,205000
+325,NAmes,SLvl,1967,Wd Sdng,Gd,Typ,6,WD,Normal,242000
+377,CollgCr,SFoyer,1996,VinylSd,Gd,Typ,7,WD,Normal,148000
+427,SawyerW,SLvl,1989,Wd Sdng,Gd,Typ,8,WD,Normal,275000
+438,BrkSide,1.5Unf,1926,Wd Sdng,Gd,Typ,1,WD,Normal,119000
+546,NWAmes,1.5Fin,1988,HdBoard,Gd,Typ,2,WD,Normal,229000
+584,OldTown,2.5Unf,1893,Wd Sdng,Ex,Typ,7,WD,Normal,325000
+643,NAmes,SLvl,1972,Plywood,Gd,Typ,7,WD,Normal,345000
+732,Timber,SLvl,2003,VinylSd,Gd,Typ,5,WD,Normal,187500
+850,Veenker,SLvl,1976,Plywood,Gd,Typ,8,WD,Normal,187000
+861,Crawfor,1.5Fin,1918,Wd Sdng,Gd,Typ,6,WD,Normal,189950
+882,Timber,1.5Fin,1990,HdBoard,Gd,Typ,4,WD,Normal,187500
+884,SWISU,2.5Fin,1912,Wd Sdng,Gd,Typ,3,WD,Normal,118500
+908,Crawfor,1.5Fin,1936,BrkFace,Gd,Typ,6,WD,Normal,250000
+981,NAmes,SFoyer,1961,CemntBd,Ex,Typ,7,WD,Normal,178400
+1006,CollgCr,SLvl,1977,HdBoard,Gd,Typ,11,WD,Normal,149900
+1019,Gilbert,SLvl,1991,HdBoard,Gd,Typ,5,WD,Normal,160000
+1117,Gilbert,SLvl,2002,VinylSd,Gd,Typ,3,WD,Normal,184100
+1176,NoRidge,1.5Fin,1992,HdBoard,Gd,Typ,4,WD,Normal,285000
+1212,Gilbert,1.5Fin,1988,Wd Sdng,Gd,Typ,6,WD,Normal,164000
+1259,Gilbert,SLvl,2005,VinylSd,Gd,Typ,7,WD,Normal,190000
+1267,OldTown,2.5Unf,1910,Wd Sdng,Fa,Typ,1,WD,Normal,122000
+1353,BrkSide,1.5Fin,1937,MetalSd,Gd,Typ,7,WD,Normal,134900
+1354,NoRidge,1.5Fin,1995,VinylSd,Gd,Typ,3,WD,Normal,410000
+1371,OldTown,1.5Fin,1920,CBlock,Fa,Typ,10,WD,Normal,105000
+10,BrkSide,1.5Unf,1939,MetalSd,TA,Typ,1,WD,Normal,118000
+16,BrkSide,1.5Unf,1929,Wd Sdng,TA,Typ,7,WD,Normal,132000
+22,IDOTRR,1.5Unf,1930,Wd Sdng,TA,Typ,6,WD,Normal,139400
+43,SawyerW,SFoyer,1983,HdBoard,TA,Typ,12,WD,Normal,144000
+62,IDOTRR,2.5Unf,1920,MetalSd,TA,Typ,3,WD,Normal,101000
+76,MeadowV,SLvl,1973,CemntBd,TA,Typ,11,WD,Normal,91000
+85,Gilbert,SLvl,1995,HdBoard,TA,Typ,5,WD,Normal,168500
+94,OldTown,2.5Unf,1910,MetalSd,TA,Typ,11,WD,Normal,133900
+112,Gilbert,SLvl,2000,VinylSd,TA,Typ,4,WD,Normal,180000
+121,ClearCr,SLvl,1969,Plywood,TA,Typ,10,WD,Normal,180000
+128,OldTown,1.5Unf,1930,WdShing,TA,Typ,6,WD,Normal,87000
+164,OldTown,1.5Unf,1956,MetalSd,TA,Typ,4,WD,Normal,103200
+187,Mitchel,SLvl,1990,HdBoard,TA,Typ,6,WD,Normal,173000
+261,NAmes,SLvl,1962,Wd Sdng,TA,Typ,5,WD,Normal,176000
+263,Sawyer,SLvl,1977,HdBoard,TA,Typ,7,WD,Normal,151000
+268,SWISU,2.5Fin,1939,Wd Sdng,TA,Typ,7,WD,Normal,179500
+296,Mitchel,SLvl,1984,HdBoard,TA,Typ,3,WD,Normal,142500
+305,OldTown,2.5Fin,1880,CemntBd,TA,Typ,5,WD,Normal,295000
+320,NWAmes,SLvl,1980,Plywood,TA,Typ,6,WD,Normal,187500
+326,IDOTRR,1.5Unf,1941,MetalSd,TA,Typ,12,WD,Normal,87000
+329,BrkSide,2.5Unf,1916,Wd Sdng,TA,Typ,7,WD,Normal,214500
+361,Mitchel,SFoyer,1978,VinylSd,TA,Typ,6,WD,Normal,156000
+368,NAmes,SLvl,1962,Plywood,TA,Typ,12,WD,Normal,165000
+384,SawyerW,1.5Unf,1928,Wd Sdng,TA,Typ,10,WD,Normal,76000
+435,MeadowV,SFoyer,1972,CemntBd,TA,Typ,6,WD,Normal,81000
+473,Edwards,SLvl,2005,VinylSd,TA,Typ,6,WD,Normal,148000
+490,MeadowV,SFoyer,1970,CemntBd,TA,Typ,5,WD,Normal,86000
+515,Crawfor,1.5Unf,1926,Wd Sdng,TA,Typ,6,WD,Normal,96500
+544,NAmes,SFoyer,1998,MetalSd,TA,Typ,6,WD,Normal,133000
+548,Mitchel,SFoyer,1970,VinylSd,TA,Typ,4,WD,Normal,129500
+556,BrkSide,1.5Unf,1922,MetalSd,TA,Typ,8,WD,Normal,113000
+570,NAmes,SFoyer,1979,MetalSd,TA,Typ,12,WD,Normal,135960
+574,Gilbert,SLvl,2000,VinylSd,TA,Typ,12,WD,Normal,170000
+575,NAmes,SLvl,1971,MetalSd,TA,Typ,12,WD,Normal,139000
+583,Edwards,SFoyer,1990,HdBoard,TA,Typ,5,WD,Normal,118500
+588,Sawyer,SFoyer,1982,HdBoard,TA,Typ,7,WD,Normal,137000
+612,NWAmes,SLvl,1978,HdBoard,TA,Typ,7,WD,Normal,148000
+615,MeadowV,SFoyer,1972,CemntBd,TA,Typ,5,WD,Normal,75500
+618,NAmes,1.5Unf,1954,MetalSd,TA,Typ,6,WD,Normal,105500
+628,NAmes,SLvl,1955,AsbShng,TA,Typ,3,WD,Normal,153000
+630,NAmes,SLvl,1964,Plywood,TA,Typ,6,WD,Normal,168500
+635,OldTown,SFoyer,1980,Plywood,TA,Typ,6,WD,Normal,144000
+650,MeadowV,SFoyer,1970,CemntBd,TA,Typ,12,WD,Normal,84500
+664,Edwards,SFoyer,1972,Plywood,TA,Typ,4,WD,Normal,137500
+736,OldTown,2.5Unf,1914,Wd Sdng,TA,Typ,10,WD,Normal,163000
+771,Sawyer,SFoyer,1982,Wd Sdng,TA,Typ,4,WD,Normal,134900
+780,Mitchel,SFoyer,1977,Plywood,TA,Typ,5,WD,Normal,135000
+784,Mitchel,SFoyer,1978,Plywood,TA,Typ,7,WD,Normal,165500
+785,OldTown,2.5Unf,1914,Wd Sdng,TA,Typ,6,WD,Normal,128000
+792,Mitchel,SLvl,1976,HdBoard,TA,Typ,5,WD,Normal,146800
+807,NAmes,SLvl,1967,VinylSd,TA,Typ,10,WD,Normal,135500
+809,NAmes,SLvl,1966,VinylSd,TA,Typ,6,WD,Normal,159950
+810,OldTown,2.5Unf,1898,AsbShng,TA,Typ,11,WD,Normal,106000
+819,ClearCr,SLvl,1971,HdBoard,TA,Typ,6,WD,Normal,155000
+827,BrkSide,1.5Unf,1924,MetalSd,TA,Typ,5,WD,Normal,109500
+843,NAmes,SLvl,1966,HdBoard,TA,Typ,5,WD,Normal,174900
+853,Crawfor,2.5Unf,1941,MetalSd,TA,Typ,8,WD,Normal,164000
+854,NAmes,SLvl,1964,MetalSd,TA,Typ,8,WD,Normal,158000
+857,CollgCr,SLvl,1978,Plywood,TA,Typ,10,WD,Normal,147000
+947,NAmes,SLvl,1959,HdBoard,TA,Typ,3,WD,Normal,143000
+953,CollgCr,SFoyer,1972,WdShing,TA,Typ,4,WD,Normal,133900
+1032,SWISU,2.5Fin,1920,Wd Sdng,TA,Typ,8,WD,Normal,197000
+1040,MeadowV,SFoyer,1970,CemntBd,TA,Typ,4,WD,Normal,80000
+1070,NAmes,1.5Unf,1949,MetalSd,TA,Typ,5,WD,Normal,135000
+1086,SawyerW,SFoyer,1992,HdBoard,TA,Typ,4,WD,Normal,147000
+1125,Gilbert,SLvl,1992,HdBoard,TA,Typ,7,WD,Normal,163900
+1130,OldTown,SFoyer,1980,MetalSd,TA,Typ,8,WD,Normal,140000
+1157,NAmes,SLvl,1965,BrkFace,TA,Typ,10,WD,Normal,179900
+1165,Veenker,SLvl,1978,Plywood,TA,Typ,6,WD,Normal,194000
+1171,Mitchel,SLvl,1977,Plywood,TA,Typ,7,WD,Normal,171000
+1214,Sawyer,SLvl,1965,VinylSd,TA,Typ,5,WD,Normal,145000
+1215,NAmes,SFoyer,1962,MetalSd,TA,Typ,5,WD,Normal,134500
+1226,NAmes,SLvl,1958,VinylSd,TA,Typ,6,WD,Normal,145000
+1232,NAmes,SLvl,1962,Wd Sdng,TA,Typ,5,WD,Normal,132500
+1248,Mitchel,SLvl,1976,HdBoard,TA,Typ,5,WD,Normal,169900
+1249,OldTown,2.5Unf,1917,AsbShng,TA,Typ,4,WD,Normal,129500
+1274,Edwards,SLvl,1959,Plywood,TA,Typ,5,WD,Normal,177000
+1278,NWAmes,SLvl,1967,HdBoard,TA,Typ,6,WD,Normal,197900
+1291,NAmes,SLvl,1964,Wd Sdng,TA,Typ,4,WD,Normal,180500
+1332,CollgCr,SLvl,1976,MetalSd,TA,Typ,7,WD,Normal,132500
+1356,NWAmes,SLvl,1968,MetalSd,TA,Typ,9,WD,Normal,170000
+1372,NAmes,SLvl,1955,AsbShng,TA,Typ,10,WD,Normal,165500
+1380,Timber,SLvl,2006,VinylSd,TA,Typ,5,WD,Normal,167500
+1393,NAmes,SFoyer,1967,HdBoard,TA,Typ,12,WD,Normal,123000
+1407,CollgCr,SFoyer,1972,HdBoard,TA,Typ,3,WD,Normal,133000
+1440,NWAmes,SLvl,1979,HdBoard,TA,Typ,11,WD,Normal,197000
+1444,BrkSide,1.5Unf,1916,Wd Sdng,TA,Typ,5,WD,Normal,121000
+1446,Sawyer,SFoyer,1966,VinylSd,TA,Typ,5,WD,Normal,129000
+1453,Edwards,SLvl,2005,VinylSd,TA,Typ,5,WD,Normal,145000
+6,Mitchel,1.5Fin,1993,VinylSd,TA,Typ,10,WD,Normal,143000
+52,BrkSide,1.5Fin,1934,Wd Sdng,TA,Typ,9,WD,Normal,114500
+105,IDOTRR,1.5Fin,1931,Stucco,TA,Typ,6,WD,Normal,169500
+109,IDOTRR,1.5Fin,1919,CemntBd,TA,Typ,8,WD,Normal,115000
+111,Edwards,1.5Fin,1954,Wd Sdng,TA,Typ,10,WD,Normal,136900
+122,IDOTRR,1.5Fin,1939,AsbShng,TA,Typ,6,WD,Normal,100000
+126,IDOTRR,1.5Fin,1935,Wd Sdng,TA,Typ,6,WD,Normal,84500
+143,NAmes,1.5Fin,1952,BrkFace,TA,Typ,6,WD,Normal,166000
+150,BrkSide,1.5Fin,1936,MetalSd,TA,Typ,4,WD,Normal,115000
+156,Edwards,1.5Fin,1924,Wd Sdng,TA,Typ,4,WD,Normal,79000
+166,Edwards,1.5Fin,1940,Wd Sdng,TA,Typ,9,WD,Normal,127500
+171,OldTown,1.5Fin,1941,MetalSd,TA,Typ,5,WD,Normal,128500
+185,BrkSide,1.5Fin,1908,AsbShng,TA,Typ,6,WD,Normal,127000
+205,OldTown,1.5Fin,1947,AsbShng,TA,Typ,4,WD,Normal,110000
+240,Edwards,1.5Fin,1945,VinylSd,TA,Typ,4,WD,Normal,113000
+243,OldTown,1.5Fin,1900,Wd Sdng,TA,Typ,4,WD,Normal,79000
+264,OldTown,1.5Fin,1929,Wd Sdng,TA,Typ,4,WD,Normal,130000
+287,NAmes,1.5Fin,1962,Wd Sdng,TA,Typ,6,WD,Normal,159000
+297,IDOTRR,1.5Fin,1950,Wd Sdng,TA,Typ,6,WD,Normal,152000
+308,IDOTRR,1.5Fin,1920,MetalSd,TA,Typ,3,WD,Normal,89500
+313,OldTown,1.5Fin,1939,MetalSd,TA,Typ,5,WD,Normal,119900
+336,Timber,1.5Fin,1965,Plywood,TA,Typ,8,WD,Normal,228950
+346,BrkSide,1.5Fin,1939,MetalSd,TA,Typ,10,WD,Normal,140200
+355,SWISU,1.5Fin,1940,Wd Sdng,TA,Typ,6,WD,Normal,140000
+362,BrkSide,1.5Fin,1940,MetalSd,TA,Typ,7,WD,Normal,145000
+381,SWISU,1.5Fin,1924,BrkFace,TA,Typ,5,WD,Normal,127000
+391,Edwards,1.5Fin,1900,MetalSd,TA,Typ,4,WD,Normal,119000
+395,OldTown,1.5Fin,1940,MetalSd,TA,Typ,7,WD,Normal,109000
+437,OldTown,1.5Fin,1920,Stucco,TA,Typ,10,WD,Normal,116000
+443,BrkSide,1.5Fin,1930,MetalSd,TA,Typ,6,WD,Normal,162900
+449,IDOTRR,1.5Fin,1937,MetalSd,TA,Typ,6,WD,Normal,119500
+450,OldTown,1.5Fin,1948,MetalSd,TA,Typ,6,WD,Normal,120000
+460,BrkSide,1.5Fin,1950,MetalSd,TA,Typ,7,WD,Normal,110000
+492,NAmes,1.5Fin,1941,Wd Sdng,TA,Typ,8,WD,Normal,133000
+498,BrkSide,1.5Fin,1925,Wd Sdng,TA,Typ,6,WD,Normal,184000
+523,BrkSide,1.5Fin,1947,CemntBd,TA,Typ,10,WD,Normal,159000
+547,BrkSide,1.5Fin,1923,BrkFace,TA,Typ,5,WD,Normal,210000
+564,Edwards,1.5Fin,1918,Wd Sdng,TA,Typ,7,WD,Normal,185000
+577,SWISU,1.5Fin,1928,Wd Sdng,TA,Typ,8,WD,Normal,145000
+580,OldTown,1.5Fin,1954,MetalSd,TA,Typ,11,WD,Normal,131500
+585,BrkSide,1.5Fin,1935,AsbShng,TA,Typ,7,WD,Normal,133000
+602,IDOTRR,1.5Fin,1937,Wd Sdng,TA,Typ,12,WD,Normal,141000
+638,OldTown,1.5Fin,1954,Wd Sdng,TA,Typ,11,WD,Normal,93000
+654,IDOTRR,1.5Fin,1906,MetalSd,TA,Typ,6,WD,Normal,135000
+695,BrkSide,1.5Fin,1936,Wd Sdng,TA,Typ,4,WD,Normal,141500
+724,Edwards,1.5Fin,1954,MetalSd,TA,Typ,5,WD,Normal,135000
+730,IDOTRR,1.5Fin,1925,MetalSd,TA,Typ,1,WD,Normal,103000
+787,OldTown,1.5Fin,1915,MetalSd,TA,Typ,6,WD,Normal,139000
+800,SWISU,1.5Fin,1937,Wd Sdng,TA,Typ,6,WD,Normal,175000
+815,Edwards,1.5Fin,1918,Stucco,TA,Typ,7,WD,Normal,116000
+824,SWISU,1.5Fin,1940,VinylSd,TA,Typ,7,WD,Normal,139500
+840,Edwards,1.5Fin,1946,MetalSd,TA,Typ,5,WD,Normal,130500
+845,OldTown,1.5Fin,1915,Wd Sdng,TA,Typ,6,WD,Normal,153900
+849,ClearCr,1.5Fin,1908,Wd Sdng,TA,Typ,9,WD,Normal,240000
+888,Edwards,1.5Fin,1955,MetalSd,TA,Typ,4,WD,Normal,135500
+891,NAmes,1.5Fin,1949,MetalSd,TA,Typ,7,WD,Normal,122900
+922,Edwards,1.5Fin,1900,MetalSd,TA,Typ,9,WD,Normal,145900
+946,OldTown,1.5Fin,1890,VinylSd,TA,Typ,9,WD,Normal,124900
+987,OldTown,1.5Fin,1910,VinylSd,TA,Typ,6,WD,Normal,117000
+1010,SWISU,1.5Fin,1926,Wd Sdng,TA,Typ,6,WD,Normal,102000
+1011,Sawyer,1.5Fin,1948,Wd Sdng,TA,Typ,8,WD,Normal,135000
+1023,OldTown,1.5Fin,1930,Wd Sdng,TA,Typ,3,WD,Normal,87000
+1029,NAmes,1.5Fin,1941,WdShing,TA,Typ,4,WD,Normal,105000
+1060,Crawfor,1.5Fin,1932,MetalSd,TA,Typ,3,WD,Normal,220000
+1073,Edwards,1.5Fin,1948,MetalSd,TA,Typ,8,WD,Normal,91500
+1093,SWISU,1.5Fin,1925,MetalSd,TA,Typ,6,WD,Normal,136500
+1099,BrkSide,1.5Fin,1936,MetalSd,TA,Typ,7,WD,Normal,128000
+1138,Sawyer,1.5Fin,1875,VinylSd,TA,Typ,5,WD,Normal,94000
+1145,Edwards,1.5Fin,1941,MetalSd,TA,Typ,7,WD,Normal,80000
+1149,OldTown,1.5Fin,1926,Wd Sdng,TA,Typ,8,WD,Normal,116900
+1178,OldTown,1.5Fin,1926,MetalSd,TA,Typ,12,WD,Normal,115000
+1179,Crawfor,1.5Fin,1921,Wd Sdng,TA,Typ,7,WD,Normal,154900
+1186,Edwards,1.5Fin,1924,AsbShng,TA,Typ,3,WD,Normal,104900
+1193,OldTown,1.5Fin,1925,VinylSd,TA,Typ,7,WD,Normal,125000
+1203,BrkSide,1.5Fin,1925,Wd Sdng,TA,Typ,5,WD,Normal,117000
+1217,Sawyer,1.5Fin,1978,VinylSd,TA,Typ,4,WD,Normal,112000
+1219,BrkSide,1.5Fin,1947,AsbShng,TA,Typ,7,WD,Normal,80500
+1223,NAmes,1.5Fin,1949,Wd Sdng,TA,Typ,1,WD,Normal,143000
+1231,Sawyer,1.5Fin,1977,Plywood,TA,Typ,8,WD,Normal,190000
+1256,BrkSide,1.5Fin,1931,Wd Sdng,TA,Typ,11,WD,Normal,127500
+1269,Crawfor,1.5Fin,1935,Stucco,TA,Typ,5,WD,Normal,381000
+1270,NAmes,1.5Fin,1958,MetalSd,TA,Typ,7,WD,Normal,144000
+1275,Crawfor,1.5Fin,1910,Wd Sdng,TA,Typ,11,WD,Normal,139000
+1286,BrkSide,1.5Fin,1939,MetalSd,TA,Typ,5,WD,Normal,132500
+1334,IDOTRR,1.5Fin,1938,Wd Sdng,TA,Typ,7,WD,Normal,125500
+1344,Crawfor,1.5Fin,1928,BrkFace,TA,Typ,3,WD,Normal,177000
+1363,NAmes,1.5Fin,1920,VinylSd,TA,Typ,6,WD,Normal,104900
+1385,Edwards,1.5Fin,1939,WdShing,TA,Typ,10,WD,Normal,105000
+1386,IDOTRR,1.5Fin,1922,VinylSd,TA,Typ,5,WD,Normal,125500
+1390,BrkSide,1.5Fin,1941,Wd Sdng,TA,Typ,3,WD,Normal,131000
+1394,OldTown,1.5Fin,1905,Wd Sdng,TA,Typ,4,WD,Normal,163000
+1400,SWISU,1.5Fin,1925,WdShing,TA,Typ,10,WD,Normal,137450
+1401,BrkSide,1.5Fin,1929,WdShing,TA,Typ,7,WD,Normal,120000
+1415,BrkSide,1.5Fin,1923,Wd Sdng,TA,Typ,6,WD,Normal,207000
+1428,NAmes,1.5Fin,1945,MetalSd,TA,Typ,4,WD,Normal,140000
+4,Crawfor,2Story,1915,Wd Sdng,TA,Typ,2,WD,Abnorml,140000
+39,NAmes,1Story,1953,VinylSd,TA,Typ,1,WD,Abnorml,109000
+41,NAmes,1Story,1965,Wd Sdng,TA,Typ,12,WD,Abnorml,160000
+47,Mitchel,1.5Fin,2003,VinylSd,Gd,Typ,8,WD,Abnorml,239686
+57,Somerst,2Story,1999,MetalSd,Gd,Typ,8,WD,Abnorml,172500
+92,NAmes,1Story,1961,HdBoard,TA,Typ,12,WD,Abnorml,98600
+130,NAmes,1Story,1958,Plywood,TA,Typ,7,WD,Abnorml,150000
+198,NAmes,2Story,1918,Stucco,Gd,Typ,3,WD,Abnorml,235000
+199,OldTown,2.5Fin,1912,Wd Sdng,TA,Typ,7,WD,Abnorml,104000
+224,NAmes,1Story,1971,HdBoard,TA,Typ,3,WD,Abnorml,97000
+227,NoRidge,2Story,1995,VinylSd,Gd,Typ,6,WD,Abnorml,290000
+258,CollgCr,1Story,2006,VinylSd,Gd,Typ,3,WD,Abnorml,220000
+304,CollgCr,1Story,1972,VinylSd,TA,Typ,7,WD,Abnorml,149900
+352,ClearCr,1Story,1986,Wd Sdng,TA,Typ,12,WD,Abnorml,190000
+388,Edwards,SLvl,1976,MetalSd,TA,Typ,10,WD,Abnorml,125000
+394,BrkSide,1Story,1941,WdShing,TA,Typ,4,WD,Abnorml,100000
+404,NoRidge,2Story,1998,VinylSd,Gd,Typ,7,WD,Abnorml,258000
+496,IDOTRR,1Story,1920,Wd Sdng,TA,Typ,11,WD,Abnorml,34900
+531,Timber,SLvl,1988,HdBoard,Gd,Typ,8,WD,Abnorml,175000
+572,NAmes,1Story,1959,WdShing,TA,Typ,10,WD,Abnorml,120000
+578,Sawyer,SLvl,1966,VinylSd,TA,Typ,5,WD,Abnorml,164500
+579,Somerst,2Story,2007,VinylSd,Gd,Typ,2,WD,Abnorml,146000
+603,SawyerW,2Story,1992,HdBoard,Gd,Typ,2,WD,Abnorml,220000
+616,NAmes,SFoyer,1963,MetalSd,TA,Typ,5,WD,Abnorml,137500
+631,OldTown,2Story,1880,VinylSd,TA,Typ,6,WD,Abnorml,124000
+636,SWISU,2.5Fin,1914,VinylSd,Fa,Typ,3,WD,Abnorml,200000
+659,NAmes,1.5Fin,1948,VinylSd,TA,Typ,1,WD,Abnorml,97500
+682,SWISU,1.5Fin,1932,VinylSd,TA,Typ,7,WD,Abnorml,159434
+694,OldTown,1Story,1921,MetalSd,TA,Typ,12,WD,Abnorml,108480
+710,Sawyer,1Story,1966,HdBoard,TA,Typ,12,WD,Abnorml,109900
+712,IDOTRR,1.5Fin,1900,MetalSd,TA,Typ,1,WD,Abnorml,102776
+741,OldTown,2Story,1910,Wd Sdng,TA,Typ,5,WD,Abnorml,132000
+758,Sawyer,2Story,1978,HdBoard,TA,Typ,4,WD,Abnorml,158900
+773,Edwards,SLvl,1976,Plywood,TA,Typ,3,WD,Abnorml,107000
+798,NAmes,1Story,1953,VinylSd,TA,Typ,4,WD,Abnorml,110000
+855,Sawyer,1Story,1955,Wd Sdng,TA,Typ,7,WD,Abnorml,170000
+875,OldTown,1.5Fin,1941,Wd Sdng,TA,Typ,8,WD,Abnorml,66500
+897,IDOTRR,1Story,1936,Wd Sdng,TA,Typ,4,WD,Abnorml,106500
+917,IDOTRR,1Story,1949,AsbShng,TA,Typ,10,WD,Abnorml,35311
+926,NWAmes,1Story,1977,VinylSd,TA,Typ,3,WD,Abnorml,175000
+952,SawyerW,1Story,1965,VinylSd,TA,Typ,7,WD,Abnorml,119900
+969,OldTown,1.5Fin,1910,VinylSd,TA,Typ,5,WD,Abnorml,37900
+971,NAmes,1.5Fin,1949,AsbShng,TA,Typ,12,WD,Abnorml,135000
+979,Edwards,1Story,1954,MetalSd,TA,Typ,5,WD,Abnorml,110000
+996,BrkSide,1.5Fin,1946,MetalSd,TA,Typ,8,WD,Abnorml,121600
+1002,OldTown,1Story,1920,Wd Sdng,TA,Typ,1,WD,Abnorml,86000
+1033,NoRidge,2Story,1993,MetalSd,Gd,Typ,11,WD,Abnorml,310000
+1050,Edwards,1Story,1946,MetalSd,TA,Typ,4,WD,Abnorml,84900
+1078,NAmes,1Story,1969,VinylSd,TA,Typ,3,WD,Abnorml,138800
+1109,Gilbert,2Story,2000,VinylSd,TA,Typ,11,WD,Abnorml,181000
+1137,NAmes,1.5Fin,1950,VinylSd,TA,Typ,4,WD,Abnorml,119000
+1153,Crawfor,1Story,1956,Stone,TA,Typ,7,WD,Abnorml,230000
+1183,NoRidge,2Story,1996,Wd Sdng,Gd,Typ,7,WD,Abnorml,745000
+1187,OldTown,2Story,1900,HdBoard,TA,Typ,8,WD,Abnorml,95000
+1220,BrDale,2Story,1971,CemntBd,TA,Typ,4,WD,Abnorml,91500
+1221,NAmes,1Story,1964,Wd Sdng,TA,Typ,11,WD,Abnorml,115000
+1235,SWISU,2Story,1911,MetalSd,TA,Typ,11,WD,Abnorml,130000
+1239,SawyerW,1Story,2005,VinylSd,Gd,Typ,3,WD,Abnorml,142500
+1246,NWAmes,SLvl,1984,VinylSd,TA,Typ,1,WD,Abnorml,178000
+1365,Somerst,2Story,2005,MetalSd,Gd,Typ,4,WD,Abnorml,144152
+1367,CollgCr,2Story,1999,VinylSd,Gd,Typ,6,WD,Abnorml,193000
+1429,OldTown,1Story,1940,MetalSd,TA,Typ,2,WD,Abnorml,119000
+1450,MeadowV,SFoyer,1970,CemntBd,TA,Typ,8,WD,Abnorml,92000
+1454,Mitchel,1Story,2006,VinylSd,TA,Typ,7,WD,Abnorml,84500
+40,Edwards,1Story,1955,AsbShng,TA,Typ,6,WD,AdjLand,82000
+103,SawyerW,1Story,1979,HdBoard,TA,Typ,6,WD,Alloca,118964
+108,OldTown,1Story,1948,VinylSd,TA,Typ,4,WD,Partial,115000
+138,Mitchel,1Story,1988,VinylSd,TA,Typ,7,WD,Family,171000
+155,OldTown,1Story,1923,Wd Sdng,TA,Typ,3,WD,Family,125000
+189,SawyerW,SFoyer,1979,Plywood,TA,Typ,6,WD,Alloca,153337
+218,OldTown,2Story,1925,MetalSd,TA,Typ,9,WD,Family,107000
+252,Crawfor,1Story,2006,VinylSd,Gd,Typ,12,WD,Family,235000
+300,Crawfor,1Story,1950,HdBoard,TA,Typ,8,WD,Family,158500
+387,Edwards,1.5Fin,1910,Wd Sdng,TA,Typ,5,WD,AdjLand,81000
+419,Edwards,1.5Fin,1940,MetalSd,TA,Typ,4,WD,AdjLand,126000
+421,Mitchel,SFoyer,1997,VinylSd,TA,Typ,11,WD,Alloca,206300
+455,Mitchel,1Story,1976,Plywood,TA,Typ,7,WD,Family,188000
+480,OldTown,1Story,1937,Stucco,TA,Typ,3,WD,Alloca,89471
+589,ClearCr,1Story,1968,Wd Sdng,TA,Typ,6,WD,Partial,143000
+609,Crawfor,2Story,1934,BrkFace,TA,Typ,9,WD,Alloca,359100
+629,NAmes,2Story,1969,Plywood,TA,Typ,9,WD,Family,135000
+633,NWAmes,1Story,1977,Plywood,TA,Typ,4,WD,Family,82500
+656,BrDale,2Story,1971,HdBoard,TA,Typ,3,WD,Family,88000
+735,Sawyer,1Story,1968,Plywood,TA,Typ,5,WD,Family,108000
+739,Edwards,1Story,1987,Plywood,TA,Typ,3,WD,Alloca,179000
+813,IDOTRR,1Story,1952,Wd Sdng,Fa,Typ,6,WD,Alloca,55993
+823,Gilbert,2Story,2003,VinylSd,Gd,Typ,10,WD,Family,225000
+859,NWAmes,1Story,1976,HdBoard,TA,Typ,6,WD,Family,152000
+887,NAmes,1Story,1959,MetalSd,TA,Typ,6,WD,Family,145000
+895,SawyerW,1Story,1979,Plywood,TA,Typ,6,WD,Alloca,118858
+898,SawyerW,2Story,1979,Plywood,TA,Typ,6,WD,Alloca,142953
+955,Edwards,SFoyer,1975,WdShing,TA,Typ,10,WD,AdjLand,127500
+1103,NAmes,1Story,1960,Wd Sdng,TA,Typ,4,WD,Family,135000
+1128,Gilbert,1Story,2004,VinylSd,Gd,Typ,11,WD,Family,259000
+1146,BrkSide,1.5Fin,1928,MetalSd,TA,Typ,8,WD,Family,149000
+1164,Sawyer,SFoyer,1969,Plywood,TA,Typ,1,WD,Alloca,108959
+1243,NWAmes,SFoyer,1974,Plywood,TA,Typ,1,WD,Family,170000
+1405,OldTown,1.5Fin,1915,Wd Sdng,TA,Typ,1,WD,Family,105000
+1424,Edwards,SLvl,1966,Plywood,Gd,Typ,8,WD,Alloca,274970
+9,OldTown,1.5Fin,1931,BrkFace,TA,Min1,4,WD,Abnorml,129900
+359,ClearCr,SLvl,1958,Wd Sdng,TA,Min2,7,WD,Abnorml,130000
+399,IDOTRR,1Story,1920,MetalSd,TA,Maj2,11,WD,Abnorml,67000
+530,Crawfor,1Story,1957,Wd Sdng,Gd,Maj1,3,WD,Alloca,200624
+667,NAmes,2Story,1965,Plywood,TA,Sev,8,WD,Abnorml,129000
+805,NAmes,1Story,1954,Wd Sdng,TA,Min1,6,WD,Family,118000
+829,ClearCr,2Story,1967,Plywood,TA,Min2,6,WD,Abnorml,185000
+913,BrkSide,1Story,1925,MetalSd,TA,Min1,7,WD,Abnorml,88000
+146,Edwards,2Story,2004,VinylSd,Gd,Maj1,4,WD,Normal,130000
+191,Crawfor,2Story,1932,BrkFace,Gd,Maj1,12,WD,Normal,315000
+194,Edwards,2Story,2004,VinylSd,Gd,Maj1,5,WD,Normal,130000
+376,Edwards,1Story,1922,Wd Sdng,Fa,Maj1,3,WD,Normal,61000
+447,NAmes,1Story,1966,BrkFace,Gd,Mod,6,WD,Normal,190000
+483,OldTown,2Story,1915,Stucco,Gd,Min2,6,WD,Normal,155000
+511,NAmes,1Story,1951,Wd Sdng,Gd,Min1,6,WD,Normal,164900
+543,NWAmes,1Story,1998,VinylSd,Gd,Maj1,6,WD,Normal,213250
+569,SawyerW,1.5Fin,1983,Wd Sdng,Gd,Min2,9,WD,Normal,316600
+686,StoneBr,2Story,1984,HdBoard,Gd,Min1,9,WD,Normal,207500
+706,IDOTRR,2Story,1930,VinylSd,Fa,Mod,7,WD,Normal,55000
+711,BrkSide,1Story,1935,VinylSd,Gd,Maj2,7,WD,Normal,52000
+770,StoneBr,2Story,2003,CemntBd,Ex,Mod,6,WD,Normal,538000
+822,OldTown,1Story,1953,MetalSd,Fa,Min2,2,WD,Normal,93000
+920,NAmes,1Story,1958,MetalSd,Ex,Min1,5,WD,Normal,176500
+967,Crawfor,1.5Fin,1940,MetalSd,Gd,Min2,6,WD,Normal,160000
+1089,Edwards,2Story,2004,VinylSd,Gd,Maj1,4,WD,Normal,137500
+1305,Edwards,2Story,2004,VinylSd,Gd,Maj1,4,WD,Normal,130000
+1329,OldTown,1.5Fin,1920,BrkFace,Gd,Mod,6,WD,Normal,256000
+55,NAmes,SLvl,1955,MetalSd,TA,Min1,2,WD,Normal,130000
+67,NAmes,1Story,1970,Plywood,TA,Min1,7,WD,Normal,180000
+78,BrkSide,1.5Fin,1948,Wd Sdng,TA,Min1,1,WD,Normal,127000
+135,Sawyer,1Story,1968,Plywood,TA,Min1,7,WD,Normal,180000
+175,Timber,1Story,1986,VinylSd,TA,Min2,11,WD,Normal,184000
+184,OldTown,1.5Fin,2003,VinylSd,TA,Mod,6,WD,Normal,200000
+188,OldTown,1.5Fin,1916,HdBoard,TA,Min2,8,WD,Normal,135000
+207,Sawyer,1Story,1962,HdBoard,TA,Min2,3,WD,Normal,143900
+216,NAmes,1Story,1957,HdBoard,TA,Min1,5,WD,Normal,134450
+251,BrkSide,1Story,1940,Wd Sdng,TA,Mod,5,WD,Normal,76500
+272,ClearCr,1Story,1954,Plywood,TA,Mod,4,WD,Normal,241500
+274,NAmes,1Story,1958,Wd Sdng,TA,Min1,4,WD,Normal,139000
+293,Edwards,1.5Fin,1949,Wd Sdng,TA,Min2,1,WD,Normal,131000
+372,ClearCr,1.5Fin,1959,WdShing,TA,Min2,7,WD,Normal,134432
+374,NAmes,1Story,1953,MetalSd,TA,Min2,11,WD,Normal,123000
+406,Sawyer,1Story,1976,Plywood,TA,Min1,6,WD,Normal,150000
+407,SWISU,1.5Fin,1936,MetalSd,TA,Maj2,3,WD,Normal,115000
+433,BrDale,2Story,1971,HdBoard,TA,Min1,8,WD,Normal,122500
+458,ClearCr,1Story,1954,Plywood,TA,Min1,3,WD,Normal,256000
+533,NAmes,1Story,1955,VinylSd,TA,Mod,4,WD,Normal,107500
+561,Sawyer,1Story,1957,Wd Sdng,TA,Mod,5,WD,Normal,121500
+625,NWAmes,2Story,1972,VinylSd,TA,Min2,11,WD,Normal,165150
+627,NAmes,1Story,1960,Wd Sdng,TA,Min1,8,WD,Normal,139900
+644,NWAmes,2Story,1969,WdShing,TA,Min1,4,WD,Normal,152000
+647,NAmes,1Story,1950,MetalSd,TA,Min1,7,WD,Normal,98300
+663,NAmes,1Story,1968,Wd Sdng,TA,Maj2,7,WD,Normal,110000
+669,Sawyer,1Story,1956,CemntBd,TA,Min2,11,WD,Normal,168000
+677,OldTown,2Story,1900,AsbShng,TA,Min2,5,WD,Normal,87000
+744,Sawyer,SLvl,1963,HdBoard,TA,Min2,10,WD,Normal,175000
+750,Edwards,1.5Fin,1945,WdShing,TA,Mod,4,WD,Normal,98000
+751,OldTown,1.5Fin,1910,Wd Sdng,TA,Min2,6,WD,Normal,96500
+762,BrkSide,1Story,1924,Wd Sdng,TA,Min1,10,WD,Normal,100000
+768,Mitchel,1.5Fin,1940,VinylSd,TA,Mod,7,WD,Normal,160000
+836,Sawyer,1Story,1950,VinylSd,TA,Min2,2,WD,Normal,128000
+846,Sawyer,SFoyer,1975,HdBoard,TA,Min2,1,WD,Normal,171000
+879,Sawyer,SFoyer,1961,HdBoard,TA,Min2,6,WD,Normal,148000
+954,Mitchel,2Story,1969,HdBoard,TA,Min2,9,WD,Normal,172000
+1001,Edwards,1Story,1952,BrkComm,TA,Min1,7,WD,Normal,82000
+1014,OldTown,1Story,1910,MetalSd,TA,Maj2,6,WD,Normal,85000
+1041,Sawyer,1Story,1957,Wd Sdng,TA,Maj1,1,WD,Normal,155000
+1046,Edwards,1Story,1955,BrkFace,TA,Min2,6,WD,Normal,139600
+1049,Mitchel,1Story,1960,HdBoard,TA,Min1,11,WD,Normal,115000
+1054,Edwards,1Story,1957,HdBoard,TA,Min2,5,WD,Normal,144500
+1063,OldTown,2Story,1900,Wd Sdng,TA,Min2,9,WD,Normal,90000
+1069,MeadowV,2Story,1973,CemntBd,TA,Maj1,6,WD,Normal,151400
+1077,OldTown,1.5Fin,1936,Wd Sdng,TA,Min1,4,WD,Normal,170000
+1119,Sawyer,SLvl,1958,MetalSd,TA,Min2,12,WD,Normal,140000
+1131,SWISU,1.5Fin,1928,WdShing,TA,Min2,12,WD,Normal,135000
+1140,BrkSide,1Story,1920,Stucco,TA,Maj1,5,WD,Normal,144000
+1174,ClearCr,1.5Fin,1946,MetalSd,TA,Maj1,3,WD,Normal,200500
+1180,Edwards,1Story,1954,Wd Sdng,TA,Min2,4,WD,Normal,93000
+1224,NAmes,1Story,1951,Wd Sdng,TA,Mod,10,WD,Normal,137900
+1230,NAmes,SLvl,1960,BrkFace,TA,Maj1,8,WD,Normal,127000
+1263,ClearCr,1.5Fin,1957,Wd Sdng,TA,Min2,11,WD,Normal,161500
+1285,SWISU,1.5Fin,1919,Wd Sdng,TA,Min2,3,WD,Normal,169000
+1293,OldTown,2Story,1892,Wd Sdng,TA,Min2,12,WD,Normal,107500
+1335,BrDale,2Story,1970,HdBoard,TA,Min1,5,WD,Normal,125000
+1378,Edwards,1.5Fin,1941,Wd Sdng,TA,Min2,7,WD,Normal,117000
+1392,NAmes,1Story,1967,Plywood,TA,Mod,4,WD,Normal,124000
+1397,Timber,1Story,1948,Wd Sdng,TA,Min1,6,WD,Normal,160000
+1399,NAmes,1.5Fin,1950,VinylSd,TA,Min1,5,WD,Normal,138000
+1412,NAmes,1.5Fin,1950,VinylSd,TA,Min2,9,WD,Normal,140000
+1425,NAmes,1Story,1958,HdBoard,TA,Min1,6,WD,Normal,144000
+1441,Crawfor,2.5Fin,1922,MetalSd,TA,Min1,9,WD,Normal,191000
+1449,Edwards,2Story,1910,MetalSd,TA,Min2,5,WD,Normal,112000
+1457,NWAmes,1Story,1978,Plywood,TA,Min1,2,WD,Normal,210000
+20,NAmes,1Story,1958,BrkFace,TA,Min1,5,COD,Abnorml,139000
+203,OldTown,1.5Fin,1924,MetalSd,TA,Min1,5,COD,Normal,112000
+254,NAmes,SLvl,1964,HdBoard,TA,Min1,10,CWD,Normal,158000
+411,Edwards,1Story,1958,BrkComm,TA,Mod,6,COD,Abnorml,60000
+489,OldTown,1.5Fin,1900,Wd Sdng,TA,Mod,5,ConLD,Normal,160000
+637,BrkSide,1Story,1936,AsbShng,Fa,Maj1,1,ConLw,Normal,60000
+837,OldTown,1Story,1948,VinylSd,TA,Min2,6,COD,Normal,153500
+84,NAmes,1Story,1960,MetalSd,TA,Typ,7,COD,Normal,126500
+89,IDOTRR,1.5Fin,1915,Plywood,Fa,Typ,10,ConLD,Abnorml,85000
+99,Edwards,1Story,1920,Wd Sdng,TA,Typ,5,COD,Abnorml,83000
+110,NWAmes,1Story,1977,Plywood,TA,Typ,1,COD,Normal,190000
+114,Crawfor,1Story,1953,Wd Sdng,TA,Typ,10,COD,Abnorml,217000
+141,NAmes,1Story,1971,HdBoard,TA,Typ,4,ConLI,Normal,115000
+145,Sawyer,1Story,1963,HdBoard,TA,Typ,11,ConLI,Abnorml,125000
+167,ClearCr,1Story,1955,Wd Sdng,Gd,Typ,11,COD,Normal,190000
+174,NAmes,1Story,1961,WdShing,TA,Typ,6,COD,Normal,163000
+222,Gilbert,2Story,2002,VinylSd,Gd,Typ,12,ConLI,Normal,200000
+226,BrDale,2Story,1971,HdBoard,TA,Typ,5,COD,Abnorml,112000
+283,NridgHt,1Story,2007,VinylSd,Gd,Typ,4,ConLw,Normal,207500
+327,Veenker,1Story,1993,BrkFace,Gd,Typ,5,Con,Normal,324000
+353,Edwards,1.5Fin,1941,VinylSd,TA,Typ,3,ConLw,Normal,95000
+363,Edwards,SFoyer,2003,HdBoard,Gd,Typ,7,ConLD,Normal,198500
+431,BrDale,2Story,1971,HdBoard,TA,Typ,7,COD,Abnorml,85400
+432,OldTown,1.5Fin,1920,MetalSd,TA,Typ,9,ConLD,Abnorml,79900
+436,CollgCr,2Story,1996,VinylSd,Gd,Typ,4,ConLw,Normal,212000
+440,Edwards,1.5Fin,1920,Wd Sdng,TA,Typ,8,ConLI,Normal,110000
+446,Edwards,1Story,1956,Wd Sdng,TA,Typ,11,COD,Normal,127500
+457,OldTown,2Story,1916,AsbShng,TA,Typ,5,COD,Abnorml,98000
+506,OldTown,2Story,1952,Wd Sdng,TA,Typ,7,COD,Normal,124500
+517,NWAmes,SLvl,1972,HdBoard,TA,Typ,8,COD,Abnorml,158000
+538,NAmes,1Story,1972,MetalSd,TA,Typ,4,COD,Normal,111250
+551,NPkVill,1Story,1977,Plywood,TA,Typ,10,COD,Abnorml,140000
+558,IDOTRR,1.5Fin,1920,MetalSd,TA,Typ,9,COD,Normal,108000
+576,NAmes,1.5Fin,1947,MetalSd,TA,Typ,10,COD,Abnorml,118500
+592,NridgHt,2Story,2008,CemntBd,Ex,Typ,6,ConLI,Normal,451950
+600,Blueste,2Story,1980,MetalSd,TA,Typ,7,COD,Normal,151000
+702,NWAmes,1Story,1969,HdBoard,TA,Typ,7,COD,Normal,140000
+729,NAmes,1Story,1958,VinylSd,TA,Typ,7,COD,Abnorml,110000
+763,Somerst,2Story,2009,VinylSd,TA,Typ,6,Con,Normal,215200
+772,Edwards,1Story,1951,Wd Sdng,TA,Typ,4,COD,Normal,102000
+774,NAmes,1Story,1958,Wd Sdng,TA,Typ,7,COD,Normal,114500
+812,CollgCr,1Story,2004,VinylSd,Gd,Typ,6,ConLD,Normal,144500
+814,NAmes,1Story,1958,MetalSd,TA,Typ,4,COD,Normal,157900
+886,Somerst,1Story,1999,MetalSd,Gd,Typ,1,CWD,Abnorml,328900
+940,ClearCr,2Story,1940,MetalSd,TA,Typ,6,COD,Normal,244400
+943,Edwards,1Story,1977,MetalSd,TA,Typ,8,Oth,Abnorml,150000
+945,Timber,SLvl,1958,HdBoard,TA,Typ,1,COD,Abnorml,137500
+970,NAmes,SLvl,1958,HdBoard,TA,Typ,3,ConLD,Normal,140000
+985,Mitchel,1.5Fin,1977,Plywood,TA,Typ,8,COD,Normal,126000
+986,Edwards,1Story,1950,MetalSd,TA,Typ,8,ConLD,Normal,125000
+997,NAmes,1Story,1961,Wd Sdng,TA,Typ,1,COD,Normal,136500
+1018,StoneBr,1Story,1984,HdBoard,Gd,Typ,8,COD,Abnorml,187500
+1025,Timber,1Story,1976,Stone,Gd,Typ,5,COD,Abnorml,287000
+1056,NWAmes,1Story,1976,Plywood,TA,Typ,5,COD,Abnorml,180000
+1062,IDOTRR,1Story,1935,MetalSd,Fa,Typ,8,ConLD,Normal,81000
+1076,Crawfor,2Story,1940,Wd Sdng,TA,Typ,7,CWD,Normal,219500
+1081,NWAmes,1Story,1971,VinylSd,Gd,Typ,10,COD,Abnorml,145000
+1100,NWAmes,1Story,1978,Plywood,TA,Typ,4,COD,Abnorml,157000
+1123,Edwards,1Story,1956,AsbShng,TA,Typ,10,COD,Abnorml,112000
+1132,Mitchel,1Story,1991,HdBoard,TA,Typ,9,Oth,Abnorml,93500
+1141,NAmes,1Story,1951,HdBoard,TA,Typ,6,COD,Abnorml,139000
+1159,Somerst,1Story,2007,VinylSd,Gd,Typ,6,ConLD,Partial,235128
+1198,OldTown,2.5Unf,1916,MetalSd,TA,Typ,7,ConLw,Normal,144000
+1201,NAmes,1Story,1970,MetalSd,TA,Typ,7,Oth,Abnorml,116050
+1234,NAmes,1Story,1959,Plywood,TA,Typ,5,COD,Abnorml,142000
+1265,NAmes,1Story,1998,MetalSd,Gd,Typ,8,COD,Abnorml,181000
+1280,IDOTRR,1.5Fin,1920,MetalSd,TA,Typ,4,COD,Abnorml,68400
+1388,OldTown,1.5Fin,1916,Stucco,TA,Typ,8,CWD,Family,136000
+1414,SawyerW,1Story,2005,VinylSd,Gd,Typ,9,COD,Abnorml,257000
+1419,NAmes,1Story,1963,HdBoard,TA,Typ,8,COD,Normal,124000
+1436,NAmes,1Story,1962,Wd Sdng,Gd,Typ,7,COD,Abnorml,174000
+12,NridgHt,2Story,2005,WdShing,Ex,Typ,7,New,Partial,345000
+49,OldTown,2Story,1920,MetalSd,TA,Typ,6,New,Partial,113000
+197,Somerst,1Story,2007,CemntBd,Ex,Typ,9,New,Partial,311872
+262,CollgCr,2Story,2007,CemntBd,Gd,Typ,11,New,Partial,276000
+279,NridgHt,1Story,2006,CemntBd,Ex,Typ,5,New,Partial,415298
+286,Somerst,2Story,2006,MetalSd,Gd,Typ,6,New,Partial,164700
+350,NridgHt,2Story,2005,CemntBd,Ex,Typ,4,New,Partial,437154
+351,NridgHt,1Story,2007,MetalSd,Ex,Typ,12,New,Partial,318061
+413,Somerst,1Story,2009,MetalSd,Ex,Typ,6,New,Partial,222000
+444,Blmngtn,1Story,2006,WdShing,Gd,Typ,6,New,Partial,172500
+516,NridgHt,1Story,2009,CemntBd,Ex,Typ,9,New,Partial,402861
+524,Edwards,2Story,2007,CemntBd,Ex,Typ,10,New,Partial,184750
+619,NridgHt,1Story,2007,CemntBd,Ex,Typ,7,New,Partial,314813
+645,Somerst,1Story,2009,CemntBd,Ex,Typ,10,New,Partial,370878
+689,StoneBr,1Story,2007,MetalSd,Gd,Typ,10,New,Partial,392000
+794,Somerst,1Story,2007,CemntBd,Gd,Typ,6,New,Partial,225000
+826,NridgHt,1Story,2007,CemntBd,Ex,Typ,6,New,Partial,385000
+876,Somerst,2Story,2007,CemntBd,Gd,Typ,8,New,Partial,303477
+974,Somerst,1Story,2007,CemntBd,Gd,Typ,12,New,Partial,182000
+1047,StoneBr,2Story,2005,CemntBd,Gd,Typ,7,New,Partial,556581
+1182,Crawfor,1Story,2008,CemntBd,Ex,Typ,11,New,Partial,392500
+1218,Somerst,1Story,2009,CemntBd,Gd,Typ,9,New,Partial,229456
+1229,NridgHt,1Story,2008,MetalSd,Ex,Typ,10,New,Partial,367294
+1299,Edwards,2Story,2008,Stucco,Ex,Typ,1,New,Partial,160000
+1452,Somerst,1Story,2008,CemntBd,Gd,Typ,5,New,Partial,287090
+14,CollgCr,1Story,2006,VinylSd,Gd,Typ,8,New,Partial,279500
+21,NridgHt,2Story,2005,VinylSd,Gd,Typ,11,New,Partial,325300
+59,StoneBr,2Story,2006,VinylSd,Ex,Typ,10,New,Partial,438780
+61,SawyerW,1Story,2004,VinylSd,TA,Typ,5,New,Partial,158000
+88,Somerst,2Story,2009,VinylSd,Gd,Typ,6,New,Partial,164500
+113,CollgCr,2Story,2007,VinylSd,Gd,Typ,10,New,Partial,383970
+118,Edwards,1Story,2006,VinylSd,TA,Typ,4,New,Partial,155000
+120,CollgCr,2Story,2005,VinylSd,Gd,Typ,7,New,Partial,163990
+152,NridgHt,1Story,2007,VinylSd,Gd,Typ,1,New,Partial,372402
+158,Timber,2Story,2009,VinylSd,Gd,Typ,5,New,Partial,269500
+160,Gilbert,2Story,2005,VinylSd,Gd,Typ,3,New,Partial,320000
+163,NridgHt,1Story,2005,VinylSd,Gd,Typ,5,New,Partial,220000
+168,NridgHt,2Story,2007,VinylSd,Gd,Typ,11,New,Partial,325624
+179,StoneBr,1Story,2008,VinylSd,Ex,Typ,7,New,Partial,501837
+213,Somerst,2Story,2009,VinylSd,TA,Typ,7,New,Partial,252678
+220,Blmngtn,1Story,2005,VinylSd,Gd,Typ,3,New,Partial,167240
+221,CollgCr,1Story,2006,VinylSd,Gd,Typ,4,New,Partial,204900
+239,NridgHt,1Story,2007,VinylSd,Ex,Typ,12,New,Partial,318000
+271,Somerst,2Story,2006,VinylSd,Gd,Typ,8,New,Partial,266000
+282,Somerst,1Story,2006,VinylSd,Gd,Typ,5,New,Partial,185000
+284,Somerst,1Story,2008,VinylSd,Gd,Typ,12,New,Partial,244600
+291,CollgCr,2Story,2006,VinylSd,Gd,Typ,7,New,Partial,233230
+321,NridgHt,2Story,2006,VinylSd,TA,Typ,9,New,Partial,342643
+379,StoneBr,1Story,2010,VinylSd,Gd,Typ,6,New,Partial,394432
+382,Somerst,1Story,2006,VinylSd,Gd,Typ,8,New,Partial,187750
+390,NridgHt,2Story,2007,VinylSd,Ex,Typ,8,New,Partial,426000
+402,CollgCr,1Story,2005,VinylSd,Gd,Typ,7,New,Partial,164990
+409,NridgHt,2Story,2006,VinylSd,Gd,Typ,8,New,Partial,280000
+410,Somerst,2Story,2007,VinylSd,Gd,Typ,4,New,Partial,339750
+416,Gilbert,1Story,2007,VinylSd,Gd,Typ,8,New,Partial,181134
+429,CollgCr,1Story,2007,VinylSd,Gd,Typ,9,New,Partial,195400
+461,Somerst,2Story,2009,VinylSd,Gd,Typ,12,New,Partial,263435
+474,NridgHt,1Story,2006,VinylSd,Gd,Typ,7,New,Partial,440000
+493,Gilbert,2Story,2006,VinylSd,Gd,Typ,5,New,Partial,172785
+508,Somerst,1Story,2009,VinylSd,Gd,Typ,9,New,Partial,208300
+512,NridgHt,1Story,2005,VinylSd,Gd,Typ,3,New,Partial,202665
+528,NridgHt,2Story,2008,VinylSd,Ex,Typ,11,New,Partial,446261
+545,Gilbert,2Story,2006,VinylSd,Gd,Typ,9,New,Partial,179665
+573,Timber,2Story,2009,VinylSd,TA,Typ,7,New,Partial,224500
+582,NridgHt,1Story,2008,VinylSd,Ex,Typ,8,New,Partial,253293
+586,Timber,1Story,2005,VinylSd,Gd,Typ,3,New,Partial,369900
+596,StoneBr,1Story,2005,VinylSd,Gd,Typ,8,New,Partial,319000
+598,Blmngtn,1Story,2006,VinylSd,Gd,Typ,2,New,Partial,194201
+614,Mitchel,1Story,2007,VinylSd,TA,Typ,12,New,Partial,147000
+640,Blmngtn,1Story,2006,VinylSd,Gd,Typ,10,New,Partial,264561
+665,Somerst,1Story,2005,VinylSd,Gd,Typ,1,New,Partial,423000
+679,StoneBr,1Story,2008,VinylSd,Gd,Typ,7,New,Partial,372500
+687,Somerst,2Story,2007,VinylSd,Gd,Typ,8,New,Partial,227875
+703,StoneBr,2Story,2006,VinylSd,Ex,Typ,7,New,Partial,361919
+709,Gilbert,2Story,2007,VinylSd,Gd,Typ,7,New,Partial,179540
+766,Somerst,1Story,2008,VinylSd,Gd,Typ,8,New,Partial,264132
+775,NridgHt,1Story,2006,VinylSd,Gd,Typ,7,New,Partial,395000
+777,CollgCr,1Story,2005,VinylSd,Gd,Typ,7,New,Partial,221500
+799,NridgHt,2Story,2008,VinylSd,Ex,Typ,7,New,Partial,485000
+804,NridgHt,2Story,2008,VinylSd,Ex,Typ,1,New,Partial,582933
+806,Somerst,1Story,2008,VinylSd,Gd,Typ,7,New,Partial,227680
+820,NridgHt,1Story,2009,VinylSd,Gd,Typ,6,New,Partial,224000
+825,Somerst,1Story,2006,VinylSd,Gd,Typ,6,New,Partial,232600
+865,Somerst,1Story,2007,VinylSd,Gd,Typ,5,New,Partial,250580
+867,Timber,1Story,2006,VinylSd,Gd,Typ,11,New,Partial,248900
+899,NridgHt,1Story,2009,VinylSd,Ex,Typ,3,New,Partial,611657
+904,Gilbert,1Story,2006,VinylSd,Gd,Typ,8,New,Partial,240000
+915,Somerst,2Story,2009,VinylSd,Gd,Typ,6,New,Partial,173733
+923,Gilbert,1Story,2005,VinylSd,Gd,Typ,10,New,Partial,169990
+939,CollgCr,2Story,2006,VinylSd,Gd,Typ,8,New,Partial,239799
+966,Gilbert,2Story,2005,VinylSd,Gd,Typ,7,New,Partial,178900
+978,Somerst,1Story,2006,VinylSd,Gd,Typ,11,New,Partial,199900
+988,NridgHt,1Story,2009,VinylSd,Ex,Typ,4,New,Partial,395192
+990,Somerst,2Story,2006,VinylSd,Gd,Typ,8,New,Partial,197000
+994,CollgCr,2Story,2005,VinylSd,TA,Typ,8,New,Partial,173900
+1022,CollgCr,1Story,2006,VinylSd,Gd,Typ,7,New,Partial,194000
+1028,Timber,1Story,2007,VinylSd,Gd,Typ,4,New,Partial,293077
+1051,Gilbert,1Story,2007,VinylSd,Gd,Typ,8,New,Partial,176485
+1052,CollgCr,1Story,2007,VinylSd,Gd,Typ,10,New,Partial,200141
+1108,Gilbert,2Story,2006,VinylSd,Gd,Typ,9,New,Partial,274725
+1116,NridgHt,1Story,2007,VinylSd,Gd,Typ,11,New,Partial,318000
+1122,CollgCr,1Story,2005,VinylSd,Gd,Typ,7,New,Partial,212900
+1143,CollgCr,2Story,2006,VinylSd,Gd,Typ,4,New,Partial,424870
+1166,NridgHt,1Story,2009,VinylSd,Gd,Typ,9,New,Partial,233170
+1197,Gilbert,2Story,2006,VinylSd,Gd,Typ,11,New,Partial,219210
+1210,Somerst,1Story,2006,VinylSd,Gd,Typ,5,New,Partial,290000
+1242,Somerst,1Story,2007,VinylSd,Gd,Typ,6,New,Partial,248328
+1244,NridgHt,1Story,2006,VinylSd,Ex,Typ,9,New,Partial,465000
+1247,Somerst,2Story,2005,VinylSd,Gd,Typ,3,New,Partial,186500
+1290,NridgHt,2Story,2006,VinylSd,Gd,Typ,10,New,Partial,281000
+1298,Edwards,SFoyer,2005,VinylSd,TA,Typ,6,New,Partial,140000
+1307,NridgHt,1Story,2005,VinylSd,Gd,Typ,9,New,Partial,202500
+1312,CollgCr,1Story,2005,VinylSd,Gd,Typ,1,New,Partial,203000
+1318,Somerst,1Story,2006,VinylSd,Gd,Typ,4,New,Partial,208900
+1325,Somerst,1Story,2006,VinylSd,Gd,Typ,2,New,Partial,147000
+1345,CollgCr,2Story,2006,VinylSd,Gd,Typ,7,New,Partial,155835
+1348,Timber,1Story,2006,VinylSd,Gd,Typ,5,New,Partial,283463
+1364,Gilbert,2Story,2006,VinylSd,TA,Typ,3,New,Partial,156932
+1376,Timber,1Story,2007,VinylSd,Gd,Typ,12,New,Partial,239000
+1395,Blmngtn,1Story,2006,VinylSd,Gd,Typ,10,New,Partial,246578
+1403,CollgCr,1Story,2006,VinylSd,Gd,Typ,7,New,Partial,193879
+1438,NridgHt,1Story,2008,VinylSd,Ex,Typ,11,New,Partial,394617
